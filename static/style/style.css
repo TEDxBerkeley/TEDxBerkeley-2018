@@ -1,0 +1,745 @@
+/**
+ * Website designed by Alvin Wan (alvinwan.com)
+ */
+
+* {
+    float: left;
+    font-family: 'Seravek';
+}
+p > * {
+    float: none;
+}
+header,
+section,
+html,
+body,
+footer,
+section .background,
+section .content {
+    width: 100%;
+    position: relative;
+}
+section .background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+html .right {
+    float: right;
+}
+.logo img {
+    width: 3em;
+    height: 3em;
+    margin: 2em;
+}
+header {
+    position: absolute;
+    top: 0;
+}
+.button {
+    background: rgb(81, 155, 252);
+    color: #FFF;
+    padding: 1em 3em;
+    line-height: 200%;
+    border-radius: 3em;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+.button:hover {
+    color: #FFF;
+    text-decoration: none;
+}
+.button.red {
+    background-color: rgb(252, 96, 78);
+}
+.button.red:hover {
+    background-color: rgb(228, 86, 70);
+}
+.button.blue {
+    background-color: rgb(75, 152, 252);
+}
+.button:hover {
+    background-color: rgb(71, 136, 220)
+}
+.button.black {
+    background-color: #000;
+}
+.button.small {
+    padding: 1.25em 3em;
+    border-radius: 2.5em;
+}
+b.red {
+    color: rgb(252, 96, 78);
+}
+b.blue {
+    color: rgb(75, 152, 252);
+}
+.flipped {
+    transform: rotate(180deg);
+}
+.background .burn-right.bottom,.background .burn-left.bottom {
+    top:auto;
+    bottom:0;
+    margin-top:0;
+    height:50em;
+}
+/**
+ * Opening
+ */
+
+.opening .center {
+    padding-top: 10em;
+}
+.opening .center img {
+    width: 20em;
+}
+.opening .center .button {
+    clear: both;
+    margin-top: -1em;
+    display: inline-block;
+}
+.opening .p1 {
+    margin-top: 5em;
+}
+.opening .p1b {
+    margin-top: 7em;
+}
+.burn-right {
+    position: absolute;
+    right: 0;
+    height: 40em;
+    top: 3em;
+}
+.opening .text p,
+.opening .text span {
+    width: 100%;
+    text-align: right;
+}
+.opening .text span {
+    font-size: 1.25em;
+    color: #999;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.opening .text p {
+    font-size: 2.5em;
+}
+.opening .text {
+    margin-top: 15em;
+}
+.opening img.wushu {
+    position:absolute;
+    top:0;
+    left:30%;
+    transform: translateX(-50%);
+    z-index:10;
+    width:60em;
+}
+.opening .content {
+    position:relative;
+    z-index:1;
+}
+.opening .titles {
+    margin-top:20em;
+}
+.opening .titles .title {
+    font-size:7em;
+    color:rgb(75, 152, 252);
+    margin-top:0.5em;
+}
+.opening.wushu .button {
+    z-index:11;
+    position:relative;
+    margin-left:5em;
+}
+
+
+
+/**
+ * Text with Number
+ */
+
+.text-with-number {} .text-with-number h2 {
+    margin-bottom: -0.35em;
+    text-indent: -0.5em;
+}
+h2.no {
+    font-weight: 500;
+    color: rgb(252, 96, 78);
+    font-size: 10em;
+    clear: both;
+}
+.text-with-number .text {
+    color: #666;
+    line-height: 200%;
+    font-size: 1.15em;
+}
+.text-with-number .button {
+    margin-top: 2em;
+}
+.text-with-number.right p {
+    text-align: right;
+}
+.text-with-number.right h2 {
+    color: rgb(75, 152, 252)
+}
+.text-with-number.right .burn-left {
+    margin-top: -10em;
+}
+/**
+ * Cutout
+ */
+
+.cutout .brian {
+    margin-top: -30em;
+}
+.cutout .brian + .text {
+    margin-right: -3em;
+}
+.cutout h2 {
+    text-transform: uppercase;
+    margin: 0 0 0.5em 0;
+}
+.cutout.blue h2 {
+    color: rgb(75, 152, 252);
+}
+.cutout.red h2 {
+    color: rgb(252, 96, 78);
+}
+.cutout .text {
+    text-align: right;
+    margin-top: 2em;
+}
+.cutout.anna .text {
+    margin-top:5em;
+    margin-right:-3em;
+}
+.cutout .text p,
+.cutout .text .button,
+.cutout .text h2 {
+    float: right;
+}
+.cutout .text h2 {
+    font-size: 2.5em;
+    width:100%;
+}
+.cutout .text p {
+    font-size: 1.15em;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #999;
+    width:100%;
+}
+.cutout .no {
+    position: absolute;
+    right: 2.15em;
+    top: -1.15em;
+    z-index: -1;
+}
+.cutout .background .circles {
+    margin-top: 3em;
+}
+.cutout.damien .no {
+    margin-top: -1em;
+    margin-right: -0.65em;
+}
+.cutout .damien {
+    margin-top: -27.5em;
+    width: 22.5em;
+}
+
+.cutout .anna {
+    margin-top: -25em;
+    width: 20em;
+}
+
+/**
+ * Text with Sideways
+ */
+
+.text-with-sideways {
+    margin-top: 5em;
+}
+.burn-left {
+    position: absolute;
+    left: 0;
+    top: -10em;
+    height: 50em;
+}
+.text-with-sideways .no {
+    float: right;
+    margin-bottom: -0.35em;
+    color: rgb(252, 241, 108);
+}
+.text-with-sideways .text p {
+    color: #666;
+    line-height: 200%;
+    font-size: 1.15em;
+}
+.text-with-sideways .button {
+    margin-top: 1.5em;
+}
+.sideways {
+    transform: rotate(-90deg);
+    text-transform: uppercase;
+    color: rgb(252, 241, 108);
+    font-size: 7em;
+    margin-top: 2em;
+    margin-left: -2.5em;
+    margin-right: -1em;
+}
+.text-with-sideways.red .sideways {
+    color: rgb(252, 96, 78);
+}
+.text-with-sideways.red {
+    margin-top:10em;
+}
+
+/**
+ * Text with headline
+ */
+
+.text-with-sideways + .text-with-headline {
+    padding-top: 20em;
+}
+.text-with-headline {
+    padding-top:10em;
+}
+.text-with-headline .p4 {
+    margin-top:35em;
+}
+.text-with-headline .p5 {
+    margin-top:10em;
+}
+.text-with-headline h2 {
+    color: rgb(252, 96, 78);
+    text-transform: uppercase;
+    font-size: 4em;
+}
+.text-with-headline p {
+    color: #666;
+    line-height: 200%;
+    font-size: 1.15em;
+}
+.text-with-headline .suja {
+    margin-top:5em;
+}
+.text-with-headline.suja .text {
+    text-align:center;
+}
+.text-with-headline.suja .text .button {
+    float:none;
+}
+.text-with-headline.right h2 {
+    text-align:right;
+    width:100%;
+}
+.benefits li {
+    color:#999;
+    font-size:2.5em;
+    float:right;
+    width:100%;
+    text-align:right;
+}
+.p7 {
+    margin-top: -10em;
+    margin-left: 5em;
+}
+.p3 {
+    margin-top:10em;
+}
+
+/**
+ * Footer
+ */
+
+footer {
+    margin-top: 5em;
+}
+footer .logo-container {
+    text-align: center;
+}
+footer .logo + .button {
+    float: none;
+    display: inline-block;
+    padding: 1em 2em;
+    margin-top: 1em;
+}
+footer h2 {
+    text-transform: uppercase;
+    color: #333;
+    font-size: 1.15em;
+    letter-spacing: 0.1em;
+}
+li {
+    list-style: none;
+}
+header li a {
+    font-weight: 500;
+    color: #666;
+    text-transform: uppercase;
+}
+header {
+    z-index: 100;
+}
+header ul {
+    float: right;
+    margin-right: 2em;
+}
+header li {
+    margin: 3em 1.5em;
+}
+footer li {
+    width: 100%;
+}
+li a {
+    margin: 0.25em 0;
+    font-size: 1.15em;
+    color: #999;
+    border-bottom: 1px solid transparent;
+}
+footer ul {
+    width: 100%;
+    padding: 0.75em 0;
+}
+footer p {
+    color: #999;
+    width: 100%;
+    text-align: center;
+    margin-top: 2em;
+    padding: 1em;
+}
+li a:hover {
+    color: #333;
+    border-bottom: 1px dotted #333;
+    text-decoration: none;
+}
+/**
+ * Alternative Opening
+ */
+
+.alternate-opening {
+    padding-top: 7.5em;
+}
+.alternate-opening img {
+    z-index: 9;
+}
+.alternate-opening h1 {
+    color: rgb(75, 152, 252);
+    text-transform: uppercase;
+    font-size: 5em;
+    width: 100%;
+}
+.alternate-opening {
+    text-align: center;
+}
+.alternate-opening .button {
+    margin-top: -4em;
+    z-index: 10;
+    float: none;
+    display: inline-block;
+    position: relative;
+}
+.alternate-opening p {
+    color: #666;
+    line-height: 200%;
+    font-size: 1.15em;
+}
+.alternate-opening .p1 {
+    margin-top: 5em;
+}
+.alternate-opening .p1b {
+    margin-top: 10em;
+}
+.alternate-opening .p5 {
+    clear: both;
+    margin-top: 5em;
+}
+/**
+ * People
+ */
+
+.wrap-container {
+    text-align:center;
+}
+
+.wrap {
+    float:none;
+    display:inline-block;
+}
+
+.people .button {
+    float:none;
+    display:inline-block;
+}
+
+.people p {
+    width:100%;
+}
+
+.people .burn-left {
+    margin-top:30em;
+}
+
+.people .p3 {
+    margin-top:30em;
+}
+
+.people .p5 {
+    margin-top:40em;
+}
+
+.people,
+.profile-detail {
+    padding: 5em 0 0 0;
+    text-align:center;
+}
+.people .profile-name a,
+.profile-detail .profile-name a {
+    color: #333;
+    border-bottom: 1px dashed rgba(255, 255, 255, .5)
+}
+.people .profile-name a:hover,
+.profile-detail .profile-name a:hover {
+    border-bottom: 1px solid #333
+}
+.people .profile-name a:hover .fa-link,
+.profile-detail .profile-name a:hover .fa-link {
+    color: #333
+}
+.people .profile-name .fa-link,
+.profile-detail .profile-name .fa-link {
+    color: rgba(0, 0, 0, .5);
+    font-size: .75em;
+    position: absolute;
+    top: 0;
+    left: 100%
+}
+.people .profile-pic-mask,
+.profile-detail .profile-pic-mask {
+    width: 10em;
+    height: 10em;
+    border-radius: 50%;
+    overflow: hidden;
+    display: inline-block;
+    float:none;
+}
+.people .profile-pic,
+.profile-detail .profile-pic {
+    width: 10em;
+    height: 10em;
+    display: inline-block
+}
+.people .profile,
+.profile-detail .profile {
+    min-height: 35em;
+    padding:2em;
+}
+.people .profile .profile-name,
+.profile-detail .profile .profile-name {
+    color: #333;
+    width:100%;
+    font-size: 1.5em
+}
+.people .profile .profile-byline,
+.profile-detail .profile .profile-byline {
+    color: #999
+}
+.people .profile .profile-copy,
+.profile-detail .profile .profile-copy {
+    color: #666;
+    font-size: .9em;
+    line-height: 150%
+}
+.people .profile-more,
+.profile-detail .profile-more {
+    margin-top: .75em;
+    font-size: .75em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, .75);
+    padding: 1.25em 2em;
+    display: inline-block;
+    letter-spacing: .1em;
+    border: 1px solid rgba(255, 255, 255, .25)
+}
+.people .profile-more:hover,
+.profile-detail .profile-more:hover {
+    cursor: pointer;
+    color: #FFF;
+    border: 1px solid rgba(255, 255, 255, .5)
+}
+.people .profile-youtube,
+.profile-detail .profile-youtube {
+    border: 1px solid #e62b1e;
+    color: #e62b1e;
+    height: 3em;
+    width: 3em;
+    border-radius: 50%;
+    line-height: 3em;
+    margin-left: 1em;
+    float: none;
+    display: inline-block;
+    opacity: .75
+}
+.profile-background,
+.profile-detail {
+    position: fixed;
+    bottom: 0;
+    height: 100%
+}
+.people .profile-youtube:hover,
+.profile-detail .profile-youtube:hover {
+    opacity: 1
+}
+
+/**
+ * Numbers
+ */
+
+.numbers .wrap {
+    padding:5em 0;
+    margin-bottom:8em;
+    border-top:1em solid #eee;
+    border-bottom:1em solid #eee;
+}
+
+.numbers .cell h2 {
+    font-size:7em;
+}
+
+.cell-red h2 {
+    color: rgb(252, 96, 78)
+}
+
+.cell-blue h2 {
+    color: rgb(75, 152, 252);
+}
+
+.numbers .cell p {
+    clear:both;
+    color:#999;
+    font-size:1.25em;
+}
+
+.numbers .p6 {
+    margin-left:-5em;
+    margin-top:10em;
+}
+
+/**
+ * Basic Text
+ */
+
+.anna + .basic-text {
+    margin-top:-6em;
+}
+
+.people + .basic-text .wrap {
+    border-top:1em solid #eee;
+    padding-top:5em;
+}
+
+.basic-text h2 {
+    font-size:8em;
+    text-align:left;
+    color: rgb(75, 152, 252);
+}
+
+.basic-text h2,.basic-text h3,.basic-text p {
+    width:100%;
+}
+
+.basic-text h3 {
+    color:#666;
+    font-size:1.25em;
+}
+
+.basic-text p {
+    color:#999;
+    font-size:1.15em;
+    line-height:200%;
+}
+
+.anna .p5 {
+    transform:rotate(40deg);
+}
+
+.multicol-2 {
+    text-align:left;
+    column-count: 2;
+    column-gap: 3em;
+}
+
+/* This stylesheet generated by Transfonter (https://transfonter.org) on November 23, 2017 5:14 AM */
+
+@font-face {
+    font-family: 'Seravek';
+    src: url('Seravek-BoldItalic.eot');
+    src: url('Seravek-BoldItalic.eot?#iefix') format('embedded-opentype'), url('Seravek-BoldItalic.woff') format('woff'), url('Seravek-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Seravek';
+    src: url('Seravek-MediumItalic.eot');
+    src: url('Seravek-MediumItalic.eot?#iefix') format('embedded-opentype'), url('Seravek-MediumItalic.woff') format('woff'), url('Seravek-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Seravek';
+    src: url('Seravek-Italic.eot');
+    src: url('Seravek-Italic.eot?#iefix') format('embedded-opentype'), url('Seravek-Italic.woff') format('woff'), url('Seravek-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Seravek';
+    src: url('Seravek-Medium.eot');
+    src: url('Seravek-Medium.eot?#iefix') format('embedded-opentype'), url('Seravek-Medium.woff') format('woff'), url('Seravek-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Seravek';
+    src: url('Seravek-LightItalic.eot');
+    src: url('Seravek-LightItalic.eot?#iefix') format('embedded-opentype'), url('Seravek-LightItalic.woff') format('woff'), url('Seravek-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Seravek';
+    src: url('Seravek-ExtraLight.eot');
+    src: url('Seravek-ExtraLight.eot?#iefix') format('embedded-opentype'), url('Seravek-ExtraLight.woff') format('woff'), url('Seravek-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Seravek';
+    src: url('Seravek-Bold.eot');
+    src: url('Seravek-Bold.eot?#iefix') format('embedded-opentype'), url('Seravek-Bold.woff') format('woff'), url('Seravek-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Seravek';
+    src: url('Seravek-ExtraLightItalic.eot');
+    src: url('Seravek-ExtraLightItalic.eot?#iefix') format('embedded-opentype'), url('Seravek-ExtraLightItalic.woff') format('woff'), url('Seravek-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Seravek';
+    src: url('Seravek.eot');
+    src: url('Seravek.eot?#iefix') format('embedded-opentype'), url('Seravek.woff') format('woff'), url('Seravek.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Seravek';
+    src: url('Seravek-Light.eot');
+    src: url('Seravek-Light.eot?#iefix') format('embedded-opentype'), url('Seravek-Light.woff') format('woff'), url('Seravek-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
