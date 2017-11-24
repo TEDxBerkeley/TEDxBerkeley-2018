@@ -111,6 +111,9 @@ b.blue {
     height: 40em;
     top: 3em;
 }
+.opening .text {
+    margin-top:10em;
+}
 .opening .text p,
 .opening .text span {
     width: 100%;
@@ -125,16 +128,16 @@ b.blue {
 .opening .text p {
     font-size: 2.5em;
 }
-.opening .text {
-    margin-top: 15em;
+.opening .cutout .text {
+    margin-top: 0em;
 }
 .opening img.wushu {
     position:absolute;
-    top:0;
-    left:30%;
+    top:5em;
+    left:50%;
     transform: translateX(-50%);
     z-index:10;
-    width:60em;
+    width:50em;
 }
 .opening .content {
     position:relative;
@@ -146,21 +149,27 @@ b.blue {
 .opening .titles .title {
     font-size:7em;
     color:rgb(75, 152, 252);
-    margin-top:0.5em;
+    margin-top:-0.5em;
 }
 .opening.wushu .button {
     z-index:11;
     position:relative;
     margin-left:5em;
+    min-width:18em;
 }
-
-
+.opening.wushu .cutout {
+    margin-top:25em;
+}
 
 /**
  * Text with Number
  */
 
-.text-with-number {} .text-with-number h2 {
+.text-with-number {
+    margin-top:-5em;
+}
+
+.text-with-number h2 {
     margin-bottom: -0.35em;
     text-indent: -0.5em;
 }
@@ -191,11 +200,14 @@ h2.no {
  * Cutout
  */
 
-.cutout .brian {
-    margin-top: -30em;
-}
 .cutout .brian + .text {
     margin-right: -3em;
+}
+.cutout .brian {
+    width:10em;
+}
+.cutout.brian .text {
+    margin-right:3em;
 }
 .cutout h2 {
     text-transform: uppercase;
@@ -209,11 +221,15 @@ h2.no {
 }
 .cutout .text {
     text-align: right;
-    margin-top: 2em;
+    margin-top:5em;
+}
+
+.cutout.damien .text {
+    margin-top:5em;
 }
 .cutout.anna .text {
     margin-top:5em;
-    margin-right:-3em;
+    margin-right:2em;
 }
 .cutout .text p,
 .cutout .text .button,
@@ -233,16 +249,16 @@ h2.no {
 }
 .cutout .no {
     position: absolute;
-    right: 2.15em;
-    top: -1.15em;
+    right: 0.75em;
+    top: -0.5em;
     z-index: -1;
 }
 .cutout .background .circles {
     margin-top: 3em;
 }
 .cutout.damien .no {
-    margin-top: -1em;
-    margin-right: -0.65em;
+    margin-top: -2em;
+    margin-right: 0.5em;
 }
 .cutout .damien {
     margin-top: -27.5em;
@@ -250,8 +266,8 @@ h2.no {
 }
 
 .cutout .anna {
-    margin-top: -25em;
-    width: 20em;
+    margin-top:0;
+    width: 10em;
 }
 
 /**
@@ -300,9 +316,6 @@ h2.no {
  * Text with headline
  */
 
-.text-with-sideways + .text-with-headline {
-    padding-top: 20em;
-}
 .text-with-headline {
     padding-top:10em;
 }
@@ -663,6 +676,7 @@ li a:hover {
 
 .anna .p5 {
     transform:rotate(40deg);
+    margin-top:10em;
 }
 
 .multicol-2 {
@@ -742,4 +756,65 @@ li a:hover {
     src: url('Seravek-Light.eot?#iefix') format('embedded-opentype'), url('Seravek-Light.woff') format('woff'), url('Seravek-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
+}
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+$screen-sm-min: 768px;
+$screen-md-min: 992px;
+$screen-lg-min: 1200px;
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: $screen-sm-min) {
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: $screen-md-min) {
+    .cutout .brian {
+        width:auto;
+        margin-top: -30em;
+    }
+    .cutout .no {
+        right: 2.15em;
+        top: -1.15em;
+    }
+    .cutout .text {
+        margin-top: 2em;
+    }
+    .text-with-sideways + .text-with-headline {
+        padding-top: 20em;
+    }
+    .cutout.damien .no {
+        margin-top: -1em;
+        margin-right: -0.65em;
+    }
+    .cutout.brian .text {
+        margin-top:6em;
+    }
+    .text-with-number {
+        margin-top:0
+    }
+    .opening .titles .title {
+        margin-top:0.5em;
+    }
+    .opening.wushu .cutout {
+        margin-top:20em;
+    }
+    .cutout.anna .text {
+        margin-right:-3em;
+    }
+    .opening img.wushu {
+        top:0;
+        left:30%;
+        width:60em;
+    }
+    .anna .p5 {
+        margin-top:0;
+    }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: $screen-lg-min) {
+
 }
