@@ -112,12 +112,16 @@ b.blue {
     top: 3em;
 }
 .opening .text {
-    margin-top:10em;
+    margin-top:5em;
+}
+.opening .text p,
+.opening .text span {
+    text-align:center;
+    width:100%;
 }
 .opening .text p,
 .opening .text span {
     width: 100%;
-    text-align: right;
 }
 .opening .text span {
     font-size: 1.25em;
@@ -134,10 +138,10 @@ b.blue {
 .opening img.wushu {
     position:absolute;
     top:5em;
-    left:50%;
+    left:60%;
     transform: translateX(-50%);
     z-index:10;
-    width:50em;
+    width:30em;
 }
 .opening .content {
     position:relative;
@@ -149,16 +153,16 @@ b.blue {
 .opening .titles .title {
     font-size:7em;
     color:rgb(75, 152, 252);
-    margin-top:-0.5em;
+    margin-top:0.5em;
+    text-align:center;
 }
 .opening.wushu .button {
     z-index:11;
     position:relative;
     margin-left:5em;
-    min-width:18em;
 }
 .opening.wushu .cutout {
-    margin-top:25em;
+    margin-top:3em;
 }
 
 /**
@@ -207,7 +211,7 @@ h2.no {
     width:10em;
 }
 .cutout.brian .text {
-    margin-right:3em;
+    margin-right:0em;
 }
 .cutout h2 {
     text-transform: uppercase;
@@ -228,8 +232,7 @@ h2.no {
     margin-top:5em;
 }
 .cutout.anna .text {
-    margin-top:5em;
-    margin-right:2em;
+    margin-top:3em;
 }
 .cutout .text p,
 .cutout .text .button,
@@ -257,12 +260,12 @@ h2.no {
     margin-top: 3em;
 }
 .cutout.damien .no {
-    margin-top: -2em;
+    margin-top: -2.25em;
     margin-right: 0.5em;
 }
 .cutout .damien {
-    margin-top: -27.5em;
-    width: 22.5em;
+    margin-top: 0;
+    width:10em;
 }
 
 .cutout .anna {
@@ -275,7 +278,7 @@ h2.no {
  */
 
 .text-with-sideways {
-    margin-top: 5em;
+    margin-top: 0em;
 }
 .burn-left {
     position: absolute;
@@ -350,7 +353,7 @@ h2.no {
 }
 .benefits li {
     color:#999;
-    font-size:2.5em;
+    font-size:1.5em;
     float:right;
     width:100%;
     text-align:right;
@@ -369,6 +372,7 @@ h2.no {
 
 footer {
     margin-top: 5em;
+    text-align:center;
 }
 footer .logo-container {
     text-align: center;
@@ -396,15 +400,24 @@ header li a {
 header {
     z-index: 100;
 }
+header .logo {
+    z-index:2;
+}
+header nav {
+    z-index:1;
+    position:relative;
+}
 header ul {
     float: right;
     margin-right: 2em;
 }
 header li {
-    margin: 3em 1.5em;
+    margin: 2.5em 0.5em;
+    font-size:0.9em;
 }
 footer li {
     width: 100%;
+    text-align:left;
 }
 li a {
     margin: 0.25em 0;
@@ -415,6 +428,11 @@ li a {
 footer ul {
     width: 100%;
     padding: 0.75em 0;
+}
+footer .button {
+    float:none;
+    display:inline-block;
+    margin-top:1em;
 }
 footer p {
     color: #999;
@@ -428,6 +446,15 @@ li a:hover {
     border-bottom: 1px dotted #333;
     text-decoration: none;
 }
+footer .button-cont {
+    width:100%;
+    margin-bottom:5em;
+}
+
+footer .spec {
+    margin-left:8%;
+}
+
 /**
  * Alternative Opening
  */
@@ -505,7 +532,6 @@ li a:hover {
 
 .people,
 .profile-detail {
-    padding: 5em 0 0 0;
     text-align:center;
 }
 .people .profile-name a,
@@ -645,7 +671,7 @@ li a:hover {
  */
 
 .anna + .basic-text {
-    margin-top:-6em;
+    margin-top:-3em;
 }
 
 .people + .basic-text .wrap {
@@ -681,7 +707,7 @@ li a:hover {
 
 .multicol-2 {
     text-align:left;
-    column-count: 2;
+    column-count: 1;
     column-gap: 3em;
 }
 
@@ -767,6 +793,61 @@ $screen-lg-min: 1200px;
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: $screen-sm-min) {
+    .opening .text p,.opening .text span {
+        text-align:right;
+    }
+    .opening .text {
+        margin-top:10em;
+    }
+    .cutout.brian .text {
+        margin-right:3em;
+    }
+    .cutout.brian .no {
+        right:-0.6em;
+    }
+    .text-with-sideways {
+        margin-top: 5em;
+    }
+    .cutout .damien {
+        margin-top: -27.5em;
+        width: 22.5em;
+    }
+    .cutout.damien .no {
+        margin-top: -2em;
+    }
+    footer .spec {
+        margin-left:0;
+    }
+
+    .multicol-2 {
+        text-align:left;
+        column-count: 2;
+        column-gap: 3em;
+    }
+    header li {
+        margin: 3em 1.5em;
+        font-size:1em;
+    }
+    .opening img.wushu {
+        width:50em;
+    }
+    .opening.wushu .cutout {
+        margin-top:25em;
+    }
+    .opening .titles .title {
+        margin-top:-0.5em;
+        text-align:left;
+    }
+    .cutout.anna .text {
+        margin-top:5em;
+        margin-right:2em;
+    }
+    .anna + .basic-text {
+        margin-top:-6em;
+    }
+    .benefits li {
+        font-size:2.5em;
+    }
 }
 
 /* Medium devices (desktops, 992px and up) */
@@ -776,7 +857,7 @@ $screen-lg-min: 1200px;
         margin-top: -30em;
     }
     .cutout .no {
-        right: 2.15em;
+        right: 2.95em;
         top: -1.15em;
     }
     .cutout .text {
@@ -787,10 +868,14 @@ $screen-lg-min: 1200px;
     }
     .cutout.damien .no {
         margin-top: -1em;
-        margin-right: -0.65em;
+        margin-right: -1.55em;
+    }
+    .cutout.brian .no {
+        right: 2.25em;
     }
     .cutout.brian .text {
         margin-top:6em;
+        margin-right:-3.5em;
     }
     .text-with-number {
         margin-top:0
@@ -812,9 +897,15 @@ $screen-lg-min: 1200px;
     .anna .p5 {
         margin-top:0;
     }
+    .cutout .anna {
+        width:22.5em;
+        margin-top:-27.5em;
+    }
 }
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: $screen-lg-min) {
-
+    .cutout.brian .no {
+        right: 3em;
+    }
 }
