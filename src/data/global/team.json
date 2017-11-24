@@ -1,0 +1,189 @@
+{
+	"2018": {
+		"leilani": {
+			"name": "Leilani Gutierrez-Palominos",
+			"byline": "Curator",
+			"description": "Leilani Gutierrez-Palominos, TEDxBerkeley 2018’s Curator, is a fourth-year student at UC Berkeley majoring in Molecular & Cell Biology and minoring in Global Poverty & Practice. Although she has a Hawaiian name, she was born in Guadalajara, Jalisco, Mexico and grew up in Fresno, CA. She aspires to be a doctor with a focus on underserved communities. Leilani investigates toxicology with the Nomura Research Group, is a Peer Advisor for the GPP minor, and tutors for the Biology Scholars Program. As member of the Cal Triathlon Team, she can be found hydrating her gills in any nearby body of water. Contact her at leilani@tedxberkeley.org.",
+			"image_uri": "/static/images/teamPics/leilani.jpg"
+		},
+		"sean": {
+			"name": "Sean Kelly",
+			"byline": "Co-Curator",
+			"description": "Sean Kelly is a fourth-year bioengineering major at UC Berkeley. He works on creating prototypes for mobile microscopy devices for use as portable diagnostic devices in developing nations in Professor Fletcher's lab. He enjoys reading novels such as Lev Grossman's The Magicians, drawing and graphic design, and occcasionally gets paid to watch people play video games. You can find him staring at either a book or computer screen, or at sean@tedxberkeley.org.",
+			"image_uri": "/static/images/teamPics/sean.jpg"
+		},
+		"renee": {
+			"name": "Renee Blodgett",
+			"byline": "Co-Curator",
+			"short_description": "Renee Blodgett is founder of branding and communications consultancy Magic Sauce Media.",
+			"description": "Renee Blodgett is founder of branding and communications consultancy <a href='http://magicsaucemedia.com'>Magic Sauce Media</a>, which is dedicated to helping companies and individuals get ahead through smart go-to-market strategies. Known globally as a master of storytelling for the lifestyle, travel and technology industries, she is also founder and managing editor of <a href='http://weblogtheworld.com'>We Blog the World</a>, an online luxury travel site focused on Transformative Travel, where luxury, adventure and wellness meet. She was selected as a top social media influencer by Forbes & a top Bay Area digital influencer by the United Nations. Prolific on social media, you can follow her <a href='http://twitter.com/magicsaucemedia'>@magicsaucemedia</a>, <a href='http://instagram.com/weblogtheworld'>@weblogtheworld</a> and <a href='http://instagram.com/luxuryfoodies'>@luxuryfoodies.</a>",
+			"image_uri": "/static/images/teamPics/renee.JPG"
+		},
+		"alvin": {
+			"name": "Alvin Wan",
+			"byline": "Director of Technology",
+			"description": "I’m a diglot by definition, with a native English tongue and a recollection of French utterances. Lactose intolerant by birth but an ice-cream lover at heart. Call me wabbly, witling, whatever you will, but I just go by Alvin. Ask anyone that’s met me: I’m known for a contagious smile and a Macbook Pro.<br/><br/> More seriously, I'm a fourth-year undergraduate at UC Berkeley studying Electrical Engineering and Computer Science. I have taught 4 courses across 7 semesters at UC Berkeley, ranging from Artificial Intelligence to Machine Learning, leading course staffs as Head Student Instructor 4 times beginning my sophomore year. <br/><br/>This past summer, I was recognized as one of the top 16 Web &amp; Mobile designers in the world by Rookies Co. from ~9000 entries across 80+ countries, 600+ design schools. I was additionally recognized as an international semifinalist for social impact by Adobe. My academic interests lie in deep reinforcement learning and computer vision, specifically perception for autonomous driving; also this past summer, one of my second-author publications won Best Paper Award at the Embedded Vision Workshop for a top-tier computer vision conference, CVPR.<br/><br/>I am now working on <a href='http://littlebitbybit.org'>Bit by Bit</a>, an organization I co-founded, to connect low-income families with tech companies. For TEDxBerkeley, I manage technology and volunteers. Want to connect? Email me at alvin (at) tedxberkeley.org. For more, see my <a href='http://alvinwan.com/summary'>professional summary</a>.",
+			"image_uri": "/static/images/teamPics/alvin.jpg",
+			"link": "http://alvinwan.com"
+		},
+		"andrew": {
+			"name": "Andrew Veenstra",
+			"byline": "Director of Logistics",
+			"description": "Andrew Veenstra is a fourth-year civil engineering major and intended EECS minor. Aside from TEDxBerkeley, Andrews is developing apps for river stream-flow analysis under Professor Thompson and enjoys spending time with his brothers in Theta Tau, Berkeley’s co-ed engineering fraternity. Some of his hobbies include hiking, photography, and daydreaming about the beach. Andrew can be found at any cafe drinking a double shot of espresso, or he can be emailed at andrew@tedxberkeley.org.",
+			"image_uri": "/static/images/teamPics/andrew.jpg"
+		},
+		"aaron": {
+			"name": "Aaron Chelliah",
+			"byline": "Manager of Outreach",
+			"description": "Aaron Chelliah is a third year at UC Berkeley, studying economics. Born and raised in sunny Manhattan Beach California, Aaron followed his passion for exploring new ideas by working with TEDxManhattanBeach and debating international topics in Model United Nations. He also enjoyed being opinion editor of the school newspaper for the same reason. Aaron enjoys hiking, discovering new music, and hanging out with his friends. You can usually find him sampling the various cuisines around Berkeley, but you could also try emailing him at achelliah@berkeley.edu.",
+			"image_uri": "/static/images/teamPics/aaron.JPG"
+		},
+		"ishan": {
+			"name": "Ishan Sharma",
+			"byline": "Manager of Logistics",
+			"description": "Ishan Sharma is currently a sophomore at Cal pursuing Economics and Business Admninistration. He grew up in Cupertino, California, where he grew up around technology while also staying civically engaged. Ishan hopes to stay involved in local government and pursue entrepreneurship. In his free time, Ishan’s interests include downhill longboarding, watching TEDTalks, spitballing start-up ideas, staying civically engaged, working out, and playing soccer.",
+			"image_uri": "/static/images/teamPics/ishan.jpg"
+		},
+		"mehdi": {
+			"name": "Mehdi Kazi",
+			"byline": "Manager of Technology",
+			"description": "Mehdi Kazi is a first year at UC Berkeley, studying Computer Science. Aside from TEDxBerkeley, he plans to explore his passions for innovation and technology by participating in different hackathons in the area and working on small projects with friends. Mehdi loves food (especially watermelon!), exploring new places, and meeting new people. You will most likely find him at coffee shops across campus with one hand on his laptop and the other on a cup of iced coffee, but you can always reach him at mehdikazi@berkeley.edu.",
+			"image_uri": "/static/images/teamPics/mehdi.jpg"
+		},
+		"saher": {
+			"name": "Saher Daredia",
+			"byline": "Manager of Partnerships",
+			"description": "Saher Daredia is sophomore at UC Berkeley majoring in Public Health and minoring in Global Poverty and Practice. Aside from TEDxBerkeley, Saher explores the union of toxicology and the alleviation of health inequities in developing countries through her research in the UC Berkeley School of Public Health. Because of passion for research and her advocacy work with the Cal Undergraduate Public Health Coalition, Saher hopes to pursue a career that allows her to use diverse approaches to promote the health of marginalized communities. In her free time, Saher enjoys camping, cuddling with her dog, and consuming copious amounts of coffee. When her nose is not buried in a book or container of hummus, you can find her at saher@tedxberkeley.org. ",
+			"image_uri": "/static/images/teamPics/saher.jpg"
+		},
+		"felipe": {
+			"name": "Felipe Cuellar",
+			"byline": "",
+			"description": "Felipe Cuellar is a First Year Mechanical Engineer at Berkeley. Drawn into the world of TED by his fascination of space and its exploration, Felipe looks forward to planning this years TED event so that the citizens of Berkeley can learn just a little more about the pale blue dot that we inhabit todoay.",
+			"image_uri": "/static/images/teamPics/nobody.jpg"
+		},
+		"aileen": {
+			"name": "Aileen Ho",
+			"byline": "",
+			"description": "Aileen Ho is a sophomore at UC Berkeley studying molecular cell biology and bioengineering. She grew up in a socioeconomically diverse community within the cradle of aerospace - Hawthorne, CA, and is passionate about increasing inclusivity in STEM education. Aileen will soon be starting research in stem cells and regenerative medicine. Her other interests include wearing copious amounts of denim, reading Oliver Sacks, and editing personal statements. Drop her a line at aileen.ho@berkeley.edu.",
+			"image_uri": "/static/images/teamPics/nobody.jpg"
+		},
+		"ananya": {
+			"name": "Ananya Krishnan",
+			"byline": "",
+			"description": "Ananya Krishnan is a first-year intended cognitive science major and computer science minor. Hoping to eventually pursue a career in law, Ananya is interested in exploring the intersection of science and law, studying neuroscience to explain decision-making, aggression and violence. Born and raised in San Diego, Ananya loves travelling, learning about other cultures, exploring the outdoors, taking risks and discussing international politics. Catch Ananya playing with the puppies on Sproul, binge watching shows on Netflix, or at ananya@tedxberkeley.org.",
+			"image_uri": "/static/images/teamPics/nobody.jpg"
+		},
+		"alyssa": {
+			"name": "Alyssa Plese",
+			"byline": "",
+			"description": "",
+			"image_uri": "/static/images/teamPics/nobody.jpg"
+		},
+		"madhav": {
+			"name": "Madhav Nekkar",
+			"byline": "",
+			"description": "",
+			"image_uri": "/static/images/teamPics/nobody.jpg"
+		},
+		"chris": {
+			"name": "Chris Lew",
+			"byline": "Senior Team Consultant",
+			"description": "Chris Lew is a Senior Consultant to the TEDxBerkeley team who brings 4 years of experience as a previous Curator and Manager of Operations & Logistics of the event. Chris is a biotech strategy consultant at DeciBio, a start-up in Santa Monica, CA. The unique multidisciplinary, entrepreneurial space of TEDx events sparked his interest in pursuing entrepreneurship at the intersection of biotechnology, health, and human-centered design.",
+			"image_uri": "/static/images/teamPics/chris.jpg"
+		}
+	},
+	"2017": {
+		"leilani": {
+			"name": "Leilani Gutierrez-Palominos",
+			"byline": "Curator",
+			"description": "Leilani Gutierrez-Palominos, TEDxBerkeley 2017’s Curator, is a third-year student at UC Berkeley majoring in Molecular & Cell Biology and minoring in Global Poverty & Practice. Although she has a Hawaiian name, she was born in Guadalajara, Jalisco, Mexico and grew up in Fresno, CA. She aspires to be a doctor with a focus on underserved communities. Leilani investigates toxicology with the Nomura Research Group, is a Peer Advisor for the GPP minor, and tutors for the Biology Scholars Program. As member of the Cal Triathlon Team, she can be found hydrating her gills in any nearby body of water. Contact her at leilani@tedxberkeley.org.",
+			"image_uri": "/static/images/teamPics/leilani.jpg"
+		},
+		"jennifer": {
+			"name": "Jennifer Barr",
+			"byline": "Co-Curator",
+			"description": "R. Jennifer Barr, TEDxBerkeley’s Co-Curator and Manager of Marketing, does digital marketing for high tech and health companies and has been a Social Media Marketing Manager for Cisco and Stanford Children’s Health and a Project Marketing Manager for Google+. This is her 8th year helping with TEDxBerkeley. She was co-curator of TEDxMarin and the social media strategist for TEDxUNPlaza and TEDxSiliconValley. She has been a director at three Bay Area non-profits and was previously a management consultant and investment banker in New York City.  LinkedIn: http://www.linkedin.com/in/rjenniferbarr",
+			"image_uri": "/static/images/teamPics/Jennifer Barr.jpg"
+		},
+		"renee": {
+			"name": "Renee Blodgett",
+			"byline": "Co-Curator",
+			"short_description": "Renee Blodgett is founder of branding and communications consultancy Magic Sauce Media.",
+			"description": "Renee Blodgett is founder of branding and communications consultancy <a href='http://magicsaucemedia.com'>Magic Sauce Media</a>, which is dedicated to helping companies and individuals get ahead through smart go-to-market strategies. Known globally as a master of storytelling for the lifestyle, travel and technology industries, she is also founder and managing editor of <a href='http://weblogtheworld.com'>We Blog the World</a>, an online luxury travel site focused on Transformative Travel, where luxury, adventure and wellness meet. She was selected as a top social media influencer by Forbes & a top Bay Area digital influencer by the United Nations. Prolific on social media, you can follow her <a href='http://twitter.com/magicsaucemedia'>@magicsaucemedia</a>, <a href='http://instagram.com/weblogtheworld'>@weblogtheworld</a> and <a href='http://instagram.com/luxuryfoodies'>@luxuryfoodies.</a>",
+			"image_uri": "/static/images/teamPics/renee.JPG"
+		},
+		"melody": {
+			"name": "Melody Jung",
+			"byline": "Director of Information and Design",
+			"description": "Melody Jung is a senior at UC Berkeley studying Materials Science & Engineering and Bioengineering. Aside from TEDxBerkeley, she also explores her passions working with the Medical Polymer Group researching implant materials, creating graphic designs with Innovative Design, and dancing with various hip-hop teams on campus. In her free time, Melody loves geocaching, drawing, and baking, so become her friend and you’ll never go hungry. You’re likely to spot her practicing hip-hop around campus or curled up in a cafe, but you can always reach her at melody@tedxberkeley.org.",
+			"image_uri": "/static/images/teamPics/melody.jpg"
+		},
+		"aashna": {
+			"name": "Aashna Patel",
+			"byline": "Director of Operations and Partnerships",
+			"description": "Aashna Patel is a third-year UC Berkeley student majoring in Public Health. While she hopes to eventually pursue a career in medicine, she is especially interested in public health as a foundation to help explain some of the underlying issues of medicine, which she is able to explore as an intern for the Epilepsy Foundation of Northern California and as a researcher through the UC Berkeley School of Public Health. On campus, she also involved with UC Berkeley Indus, a South Asian cultural organization. You can always find Aashna looking for new hiking trails in Berkeley, rooting for her hometown team of the Chicago Bulls, or at aashna@tedxberkeley.org.",
+			"image_uri": "/static/images/teamPics/aashna.jpg"
+		},
+		"alvin": {
+			"name": "<a href='http://alvinwan.com'><i class='fa fa-link' aria-hidden='true'></i>Alvin Wan</a>",
+			"byline": "Director of Technology",
+			"description": "Third-year Electrical Engineering and Computer Science undergraduate. I’m a diglot by definition, with a native English tongue and a recollection of French utterances. Lactose intolerant by birth but an ice-cream lover at heart. Call me wabbly, witling, whatever you will, but I just go by Alvin. Ask anyone that’s met me: I’m known for a contagious smile and a Macbook Pro. ",
+			"image_uri": "/static/images/teamPics/alvin.jpg"
+		},
+		"andrew": {
+			"name": "Andrew Veenstra",
+			"byline": "Director of Logistics",
+			"description": "Andrew Veenstra is a third-year civil engineering major and intended EECS minor. Aside from TEDxBerkeley, Andrews is developing apps for river stream-flow analysis under Professor Thompson and enjoys spending time with his brothers in Theta Tau, Berkeley’s co-ed engineering fraternity. Some of his hobbies include hiking, photography, and daydreaming about the beach. Andrew can be found at any cafe drinking a double shot of espresso, or he can be emailed at andrew@tedxberkeley.org.",
+			"image_uri": "/static/images/teamPics/andrew.jpg"
+		},
+		"sean": {
+			"name": "Sean Kelly",
+			"byline": "Director of Interactive Projects",
+			"description": "Sean Kelly is a third-year bioengineering major at UC Berkeley. He works on creating prototypes for mobile microscopy devices for use as portable diagnostic devices in developing nations in Professor Fletcher's lab. He enjoys reading novels such as Lev Grossman's The Magicians, drawing and graphic design, and occcasionally gets paid to watch people play video games. You can find him staring at either a book or computer screen, or at sean@tedxberkeley.org.",
+			"image_uri": "/static/images/teamPics/sean.jpg"
+		},
+		"aaron": {
+			"name": "Aaron Chelliah",
+			"byline": "Manager of Outreach",
+			"description": "Aaron Chelliah is a first year at UC Berkeley, studying economics. Born and raised in sunny Manhattan Beach California, Aaron followed his passion for exploring new ideas by working with TEDxManhattanBeach and debating international topics in Model United Nations. He also enjoyed being opinion editor of the school newspaper for the same reason. Aaron enjoys hiking, discovering new music, and hanging out with his friends. You can usually find him sampling the various cuisines around Berkeley, but you could also try emailing him at achelliah@berkeley.edu.",
+			"image_uri": "/static/images/teamPics/aaron.JPG"
+		},
+		"ishan": {
+			"name": "Ishan Sharma",
+			"byline": "Manager of Logistics",
+			"description": "Ishan Sharma is a first-year UC Berkeley student pursuing economics, where he is interested in both business and politics. On the business side, Ishan trades stocks and runs his own LLC, HS Mixers, an event-hosting company for high school students. Ishan also is civically engaged, keeping up with local politics and fighting campus/food insecurity as an intern in the Associated Students of the University of California (ASUC). You can find Ishan skateboarding, playing soccer, or reading non-fiction self help books. Drop him a line at ishan@tedxberkeley.org .",
+			"image_uri": "/static/images/teamPics/ishan.jpg"
+		},
+		"joe": {
+			"name": "Joe West",
+			"byline": "Manager of Event Logistics",
+			"description": "Joseph West is a second year student studying economics. Born and raised in Los Angeles, he spent his first year adjusting to life in Northern California. In addition to school work and TEDxBerkeley, Joe enjoys assisting cutting-edge research in economics, sampling exotic foods at nearby restaurants, hiking adventures in the wilderness, watching B-rated action movies, and jamming out to classic R&B music. Catch Joseph slacklining early in the mornings near the Campanile or contact him at joe@tedxberkeley.org.",
+			"image_uri": "/static/images/teamPics/joe.jpg"
+		},
+		"krupa": {
+			"name": "Krupa Modi",
+			"byline": "Manager of Social Media and Content",
+			"description": "Krupa Modi is a second-year student studying Public Health with intended minors in Education and Global Poverty and Practice. She explores her passion for health equity and advocacy through volunteering with the Suitcase Clinic, a student organization that works with homeless and low-income populations. Krupa also works at UC Berkeley's Safe Transportation Research and Education Center (SafeTREC), researching the intersection between city planning and public health. Krupa enjoys cooking, traveling, and cheering on the Cal Golden Bears! Contact her at krupa@tedxberkeley.org.",
+			"image_uri": "/static/images/teamPics/krupa.jpg"
+		},
+		"mehdi": {
+			"name": "Mehdi Kazi",
+			"byline": "Manager of Technology",
+			"description": "Mehdi Kazi is a first year at UC Berkeley, studying Computer Science. Aside from TEDxBerkeley, he plans to explore his passions for innovation and technology by participating in different hackathons in the area and working on small projects with friends. Mehdi loves food (especially watermelon!), exploring new places, and meeting new people. You will most likely find him at coffee shops across campus with one hand on his laptop and the other on a cup of iced coffee, but you can always reach him at mehdikazi@berkeley.edu.",
+			"image_uri": "/static/images/teamPics/mehdi.jpg"
+		},
+		"saher": {
+			"name": "Saher Daredia",
+			"byline": "Manager of Partnerships",
+			"description": "Saher Daredia is a freshman at UC Berkeley planning to study Molecular Cell Biology and Public Health. Aside from TEDxBerkeley, Saher explores her interest in health education and social justice through the Community Health committee of the Cal Undergraduate Public Health Coalition. Saher ultimately hopes to pursue a career in epidemiological research and help at-risk populations in developing countries. She enjoys camping, cuddling with her dog, and consuming copious amounts of coffee. When her nose is not buried in a book or container of hummus, you can find her at saher@tedxberkeley.org.",
+			"image_uri": "/static/images/teamPics/saher.jpg"
+		},
+		"chris": {
+			"name": "Chris Lew",
+			"byline": "Senior Team Consultant",
+			"description": "Chris Lew is a Senior Consultant to the TEDxBerkeley team who brings 4 years of experience as a previous Curator and Manager of Operations & Logistics of the event. Chris is a biotech strategy consultant at DeciBio, a start-up in Santa Monica, CA. The unique multidisciplinary, entrepreneurial space of TEDx events sparked his interest in pursuing entrepreneurship at the intersection of biotechnology, health, and human-centered design.",
+			"image_uri": "/static/images/teamPics/chris.jpg"
+		}
+	}
+}

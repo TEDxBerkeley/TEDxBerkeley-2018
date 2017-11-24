@@ -1,0 +1,22 @@
+{% extends "layouts/base.html" %}
+{% block main %}
+<section class="basic-text wrap-container profile">
+    <div class="wrap col-md-8 col-sm-10 col-xs-10">
+        <div class="profile-pic-mask">
+            <span class="profile-pic"
+                  style="background:url('{{ person.image_uri }}'); background-size:cover; background-position:center;">
+            </span>
+        </div>
+        <h2 id="theme-tedx-ted">{{ person.name }}</h2>
+        <div class="multicol-2">
+            <h3>Byline</h3>
+            <p>{{ person.byline }}</p>
+            <h3>Description</h3>
+            <p>{{ person.description }}</p>
+        </div>
+    </div>
+    <div class="background">
+        <img src="/static/images/burn_right.svg" class="burn-right">
+    </div>
+</section>
+{% endblock %}

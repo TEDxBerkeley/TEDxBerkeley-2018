@@ -87,3 +87,23 @@ for filepath in glob.iglob(os.path.join(args.html, '*.html')):
     filename = os.path.basename(filepath)
     with open(out_path, 'w') as f:
         f.write(env.get_template(filename).render(context))
+
+# Generate team member and speaker pages
+team = json.load(open('src/data/global/team.json'))
+speakers = json.load(open('src/data/global/speakers.json'))
+template = env.get_template('templates/profile.html')
+for member in team['2018'].values():
+    context = global_context.copy()
+    out = './published/about/%s/index.html' % member['name'].replace(' ', '-')
+    os.makedirs(os.path.dirname(out), exist_ok=True)
+    with open(out, 'w') as f:
+        context['person'] = member
+        f.write(template.render(context))
+
+for speaker in speakers['2018']:
+    context = global_context.copy()
+    out = './published/speakers/%s/index.html' % speaker['name'].replace(' ', '-')
+    os.makedirs(os.path.dirname(out), exist_ok=True)
+    with open(out, 'w') as f:
+        context['person'] = speaker
+        f.write(template.render(context))
