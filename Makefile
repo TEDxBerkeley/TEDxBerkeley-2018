@@ -11,10 +11,9 @@ preview:
 # usage: make deploy m="commit message"
 deploy:
 	python compile.py production && \
-	cd ../cs189.github.io && \
+	cd ../tedxberkeley.github.io && \
 	git pull --force && \
-	cp -r ../staging/published/* . && \
-	cp ../staging/published/.gitignore . && \
+	cp -r ../TEDxBerkeley-2018/published/* . && \
 	git add . && \
 	git commit -m "deploy: $(m)" --allow-empty && \
 	git push

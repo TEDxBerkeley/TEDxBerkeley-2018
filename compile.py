@@ -50,7 +50,7 @@ for directory in (args.static,):
 # Update CNAME if needed and copy
 with open('CNAME', 'w') as cname:
     if args.mode == 'production':
-        cname.write('www.tedxberkeley.org')
+        cname.write('tedxberkeley.org')
     elif args.mode == 'staging':
         cname.write('staging.tedxberkeley.org')
 shutil.copy2('CNAME', os.path.join(args.out, 'CNAME'))
