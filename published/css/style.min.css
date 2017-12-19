@@ -761,8 +761,6 @@ section.profile .profile-pic-mask {
     margin-top: 10em; }
   .cutout.brian .text {
     margin-right: 3em; }
-  .cutout.brian .no {
-    right: -0.6em; }
   .text-with-sideways {
     margin-top: 5em; }
   .cutout .damien {
@@ -835,4 +833,6 @@ section.profile .profile-pic-mask {
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
   .cutout.brian .no {
-    right: 3em; } }
+    right: 3em; }
+  .cutout.brian {
+    margin-right: -3em; } }

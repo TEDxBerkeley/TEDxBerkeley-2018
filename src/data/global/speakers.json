@@ -45,19 +45,29 @@
       "name": "David Lang",
       "byline": "Entrepreneur and Writer",
       "description": "David Lang is the co-founder of OpenROV, manufacturers of underwater drones, and OpenExplorer, a platform for connected exploration as well as an entrepreneur and writer. David is also a TED Senior Fellow and a National Geographic Explorer. His TED talk on DIY robotics and ocean exploration has garnered more than one million views. His writing has been featured on BackChannel, MAKE, and Popular Mechanics. His first book, Zero to Maker, chronicled his journey from underskilled beginner to underwater robot manufacturer. David’s story of career reinvention and adventure has drawn a lot of attention. His work and company has been written about and featured in The New York Times, WIRED, and dozens of other popular outlets.",
-      "image_uri": "/static/images/speakerPics/DavidLang.jpg"
+      "image_uri": "/static/images/speakerPics/DavidLang.jpg",
+      "twitter": "davidtlang"
     },
     {
       "name": "Jennifer French",
       "byline": "Advocate and Author",
       "description": "Jennifer French became a quadriplegic from a C6-7 incomplete spinal cord injury in 1998. She is a silver medalist from the 2012 Paralympic Games and is the 2012 Rolex Yachtswoman of the Year; the first woman with a disability to receive this distinction. Jennifer is also the Co-Founder of the Warrior Sailing Program, which focuses on maritime education for wounded, ill and injured service members. She serves on the board of the Disability Achievement Center and the Committee to Advocate for Persons with Impairments, and author of the book: On My Feet Again: My Journey out of the Wheelchair using Neurotechnology. As a user of neurotechnology who has reaped its benefits, she is also the Co-founder of the Neurotech Network, which educates and advocates to and for persons with impairments, their caregivers and health care professionals regarding neurotechnology. Jennifer has been featured in several media outlets and is an accomplished writer and speaker.",
-      "image_uri": "/static/images/speakerPics/JenniferFrench.jpg"
+      "image_uri": "/static/images/speakerPics/JenniferFrench.jpg",
+      "twitter": "NeurotechNtwk"
     },
     {
       "name": "Chandni Kazi",
       "byline": "Product Manager",
       "description": "Chandni Kazi is passionate about public health, social justice and the role of STEM in achieving both. She earned her bachelor’s degree from UC Berkeley in Molecular and Cell Biology, as well as her Masters of Public Health in Biostatistics from Loma Linda University. She is a published author on the relationship between education and maternal weight gain in U.S. Mothers. Alongside her studies, she volunteered at a nonprofit that served the youth experiencing homelessness. For two years, she digitized their data collection process and spent time with the youth providing public health services. This experience led her to devout her master’s thesis to researching better ways to help them with respect to their mental health and utilization of more public health services. Chandni now brings her unique interdisciplinary background into the workplace. She serves as a Product Manager at Great Place To Work Inc, a global organization that creates great workplaces for all. She is responsible for building innovations that help reduce systemic injustices that take place within organizations. Additionally, she chairs her company’s philanthropic group and volunteers her expertise to local nonprofits in need of data support. Chandni lives in San Francisco, CA and enjoys traveling, all things ramen, salsa dancing and surfing.",
-      "image_uri": "/static/images/speakerPics/ChandniKazi.jpg"
+      "image_uri": "/static/images/speakerPics/ChandniKazi.jpg",
+      "twitter": "chai923"
+    },
+    {
+      "name": "Doniece Sandoval",
+      "byline": "Nonprofit Founder, Advocate",
+      "description": "Doniece Sandoval is the founder of Lava Mae, a San Francisco-based nonprofit that began by converting public transportation buses into bathrooms on wheels for the homeless. Driven by a fierce belief that everyone deserves the right to be clean, she was inspired to build Lava Mae after learning about the appalling lack of showers and toilets available to people experiencing homelessness across this country.<br/><br/>Her mobile hygiene odyssey began with an inherent understanding that collaboration across the sectors was key to making Lava Mae a success. With the help of the Mayor’s Office of Housing, Opportunity, Engagement and Partnership, partnerships were seeded with some of the city’s most respected nonprofit homeless providers, city agencies from the San Francisco Municipal Transportation Agency to the San Francisco Public Utilities Commission and companies such as Google.<br/><br/>In the three-and-a-half years since launching its service, Lava Mae has transformed the lives of more than 10,000 Californians and is scaling by sharing an open source toolkit to respond to the 1,600+ requests for help from communities as far away as Zimbabwe and Mongolia and as close as Los Angeles and San Jose. Doniece’s goal is to enable 1M new showers around the globe over the next two years.<br/><br/>Doniece credits the international visibility Lava Mae has achieved both to the cord it’s striking and to her extensive marketing/branding/PR experience. Before tackling hygiene for the homeless, Doniece spent the previous decade working in the arts as head of marketing at the San Jose Museum of Art – growing the coveted young adult audience by over 200% in two years, and then as Chief External Relations Officer for ZERO1 — an organization dedicated to showcasing the work of some of the most fertile minds from the worlds of art, science, design, architecture, and technology - where she helped secure major funding, shaped programming, and developed and stewarded the brand.<br/><br/>Her private sector experience includes work with major companies such as Coca Cola, Informix, DoubleClick, ToysRUs.com and a host of small San Francisco-based design companies she helped brand.  She began her career as a Legislative Research Analyst in Texas.<br/><br/>Accolades include: 2017: CNN Hero, Irvine Leadership Award, YBCA 100, Woman of the Year, CA Legislature, Bright Idea by the Innovations in American Government Awards; 2016: KIND Award; AIASF Community Alliance Award/Social Impact; Harmony in Hope Award; 2016 Hispanicize Positive Impact Award. 2015: Women in the World’s Mother of Invention Award; Department on the Status of Women, Woman of the Year; Senator Mark Leno honoree Woman of the Year, 2014: Red Cross Community Hero; Janice Mirikitani Legacy Award; Project Homeless Connect’s Innovator of the Year honoree. But Doniece is most proud of the honor bestowed upon her by her 10-year old daughter who calls her a Homeless Super Hero.",
+      "image_uri": "/static/images/speakerPics/DonieceSandoval.jpg",
+      "twitter": "LavaMae"
     },
     {
       "name": "Khalid Kadir",
@@ -72,19 +82,27 @@
       "image_uri": "/static/images/speakerPics/DariaMusk.jpg"
     },
     {
-      "name": "Christopher Emdin",
-      "byline": "",
-      "description": "",
-      "image_uri": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png"
+      "name": "Justin Barad",
+      "twitter": "jbhungry",
+      "byline": "Medical Entrepreneur",
+      "description": "Justin Barad, MD is the co-founder and CEO of Osso VR, a clinically validated and award-winning surgical training platform. Early in Dr. Barad’s career, he fully intended to become a game developer, but when a family member became ill he decided to use his technology background to solve healthcare challenges and moved toward medicine. With a strong interest in “serious gaming” and a first-hand understanding of the challenges facing residents and experienced doctors, he co-founded Osso VR with a mission to democratize access to modern surgical techniques and improve patient safety.<br/><br/>In addition, Dr. Barad is also a practicing orthopaedic surgeon with a Bioengineering degree from UC Berkeley, and an MD from UCLA where he graduated first in his class. He completed his residency at UCLA, and his fellowship was in pediatric orthopaedics at Harvard and Boston Children's Hospital. Dr. Barad has also written for Medgadget, a popular medical technology site, for more than a decade, and has spoken at multiple conferences including TEDMED, the CES Digital Health Summit, Exponential Medicine, and Health 2.0.",
+      "image_uri": "/static/images/speakerPics/JustinBarad.jpg"
     },
     {
-      "name": "Justin Barad",
-      "byline": "",
-      "description": "",
-      "image_uri": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png"
+      "name": "Dan Hammer",
+      "twitter": "econohammer",
+      "byline": "Entrepreneur, Environmental Activist",
+      "description": "Dan Hammer received 2017 Pritzker Award for his work to make environmental information more accessible to journalists.  He earned is PhD in Environmental Economics from UC Berkeley, where he was a Fellow at the Berkeley Institute for Data Science.  Dan works at an environmental and tech nonprofit that he founded alongside two other Berkeley alumni, including the former CEO of The Nature Conservancy and The Moore Foundation.  He previously served as a Senior Policy Advisor on data infrastructure in the Obama White House, as well as a Presidential Innovation Fellow at NASA.  Dan was the Chief Data Scientist at the World Resources Institute, where he co-founded Global Forest Watch -- an online platform to monitor deforestation from satellite imagery.  He cofounded a venture capital-backed satellite image analytics company, which is successful long after he left -- likely because he left.  He is adjunct faculty in the public policy school at Georgetown University, and the environmental sciences department at the University of San Francisco. He graduated with high honors in mathematics and economics from Swarthmore College, where he was a Lang Opportunity Scholar and volunteer firefighter.  Dan spent almost two years in the South Pacific as a Watson Fellow, building and racing outrigger canoes.",
+      "image_uri": "/static/images/speakerPics/DanHammer.jpg"
     },
     {
       "name": "Dean Ornish",
+      "byline": "",
+      "description": "",
+      "image_uri": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png"
+    },
+    {
+      "name": "Christopher Emdin",
       "byline": "",
       "description": "",
       "image_uri": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png"

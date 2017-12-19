@@ -815,9 +815,6 @@ $screen-lg-min: 1200px;
     .cutout.brian .text {
         margin-right:3em;
     }
-    .cutout.brian .no {
-        right:-0.6em;
-    }
     .text-with-sideways {
         margin-top: 5em;
     }
@@ -920,5 +917,8 @@ $screen-lg-min: 1200px;
 @media (min-width: $screen-lg-min) {
     .cutout.brian .no {
         right: 3em;
+    }
+    .cutout.brian {
+        margin-right:-3em;
     }
 }

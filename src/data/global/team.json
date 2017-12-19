@@ -32,6 +32,12 @@
 			"description": "Andrew Veenstra is a fourth-year civil engineering major and intended EECS minor. Aside from TEDxBerkeley, Andrews is developing apps for river stream-flow analysis under Professor Thompson and enjoys spending time with his brothers in Theta Tau, Berkeley’s co-ed engineering fraternity. Some of his hobbies include hiking, photography, and daydreaming about the beach. Andrew can be found at any cafe drinking a double shot of espresso, or he can be emailed at andrew@tedxberkeley.org.",
 			"image_uri": "/static/images/teamPics/andrew.jpg"
 		},
+		"krupa": {
+			"name": "Krupa Adusumilli",
+			"byline": "Director of Finance",
+			"description": "Krupa Adusumilli is a 4th year student at UC Berkeley double majoring in Economics and Business Administration. Aside from TEDxBerkeley, Krupa is passionate about social business as a means to reaching gender parity all around the world. When she isn’t sending out emails to get corporate sponsors for TEDxBerkeley or updating the TEDxBerkeley budget you can find her working at Berkeley-Haas’ Center for Gender, Equity & Leadership, co-writing a book, or conceptualizing social business plans. Regardless you can always contact her at krupaadusumilli@tedxberkeley.org.",
+			"image_uri": "/static/images/teamPics/nobody.jpg"
+		},
 		"aaron": {
 			"name": "Aaron Chelliah",
 			"byline": "Manager of Outreach",
@@ -66,19 +72,19 @@
 			"name": "Aileen Ho",
 			"byline": "",
 			"description": "Aileen Ho is a sophomore at UC Berkeley studying molecular cell biology and bioengineering. She grew up in a socioeconomically diverse community within the cradle of aerospace - Hawthorne, CA, and is passionate about increasing inclusivity in STEM education. Aileen will soon be starting research in stem cells and regenerative medicine. Her other interests include wearing copious amounts of denim, reading Oliver Sacks, and editing personal statements. Drop her a line at aileen.ho@berkeley.edu.",
-			"image_uri": "/static/images/teamPics/nobody.jpg"
+			"image_uri": "/static/images/teamPics/aileen.jpg"
 		},
 		"ananya": {
 			"name": "Ananya Krishnan",
 			"byline": "",
 			"description": "Ananya Krishnan is a first-year intended cognitive science major and computer science minor. Hoping to eventually pursue a career in law, Ananya is interested in exploring the intersection of science and law, studying neuroscience to explain decision-making, aggression and violence. Born and raised in San Diego, Ananya loves travelling, learning about other cultures, exploring the outdoors, taking risks and discussing international politics. Catch Ananya playing with the puppies on Sproul, binge watching shows on Netflix, or at ananya@tedxberkeley.org.",
-			"image_uri": "/static/images/teamPics/nobody.jpg"
+			"image_uri": "/static/images/teamPics/ananya.jpg"
 		},
 		"alyssa": {
 			"name": "Alyssa Plese",
 			"byline": "",
-			"description": "",
-			"image_uri": "/static/images/teamPics/nobody.jpg"
+			"description": "Alyssa is currently a first-year student studying Environmental Economics and Policy in the College of Natural Resources. Aside from her work with TED, Alyssa is involved with the Student Food Collective and is interested in environmental advocacy and sustainable agriculture. A biker, a hiker, a baker and art-maker, some of Alyssa’s other hobbies include impromptu rhyming, reading, and rock climbing. If you need to get a hold of her, shoot her an email at alyssa@tedxberkeley.edu",
+			"image_uri": "/static/images/teamPics/alyssa.jpg"
 		},
 		"madhav": {
 			"name": "Madhav Nekkar",

@@ -9,6 +9,9 @@
         </div>
         <h2 id="theme-tedx-ted">{{ person.name }}</h2>
         <div class="multicol-2">
+            {% if person.twitter %}
+            <p><a href="http://twitter.com/{{ person.twitter }}" rel="nofollow">@{{ person.twitter }}</a></p>
+            {% endif %}
             <h3>Byline</h3>
             <p>{{ person.byline }}</p>
             <h3>Description</h3>
