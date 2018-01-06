@@ -122,7 +122,7 @@ if args.old:
             context['root'] = '/%d' % year
             context['speakers'] = speakers[str(year)]
             f.write(year_template.render(context))
-    
+
     for year in range(2010, 2017):
         for speaker in speakers[str(year)]:
             context = global_context.copy()
