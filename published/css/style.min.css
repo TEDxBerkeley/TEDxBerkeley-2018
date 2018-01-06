@@ -610,6 +610,11 @@ footer .spec {
 .profile-detail .profile-youtube:hover {
   opacity: 1; }
 
+.profile .image-large {
+  box-sizing: box-inline;
+  padding: 0.5em;
+  background-color: #eee; }
+
 /**
  * Numbers
  */
