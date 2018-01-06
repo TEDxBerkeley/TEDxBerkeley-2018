@@ -7,6 +7,7 @@ import json
 import glob
 import sass
 import shutil
+import itertools
 
 from jsmin import jsmin
 
@@ -76,7 +77,10 @@ for filepath in glob.iglob(os.path.join(args.global_json, '*.json')):
         global_context[key] = json.load(f)
 
 # Generate HTML from templates and JSON data
-for filepath in glob.iglob(os.path.join(args.html, '*.html')):
+
+for filepath in itertools.chain(
+        glob.iglob(os.path.join(args.html, '*.html')),
+        glob.iglob(os.path.join(args.html, 'volunteer/*.html'))):
     datapath = filepath.replace(args.html, args.data) + '.json'
     context = global_context.copy()
     if os.path.exists(datapath):
@@ -85,8 +89,8 @@ for filepath in glob.iglob(os.path.join(args.html, '*.html')):
     out_path = filepath.replace(args.html, args.out)
     if not out_path.endswith('index.html'):
         out_path = out_path.replace('.html', '/index.html')
-        os.makedirs(os.path.dirname(out_path), exist_ok=True)
-    filename = os.path.basename(filepath)
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    filename = filepath.replace(args.html, '')
     with open(out_path, 'w') as f:
         f.write(env.get_template(filename).render(context))
 
