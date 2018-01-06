@@ -5,7 +5,7 @@
         {% if not person.image_large_uri %}
         <div class="profile-pic-mask">
             <span class="profile-pic"
-                  style="background:url('{{ person.image_uri }}'); background-size:cover; background-position:center;">
+                  style="background:url('{{ root }}/{{ person.image_uri }}'); background-size:cover; background-position:center;">
             </span>
         </div>
         {% endif %}
@@ -24,7 +24,7 @@
         </div>
     </div>
     <div class="background">
-        <img src="/static/images/burn_right.svg" class="burn-right">
+        <img src="{{ root }}/static/images/burn_right.svg" class="burn-right">
     </div>
 </section>
 {% endblock %}

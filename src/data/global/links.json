@@ -2,5 +2,6 @@
     "eventbrite": "https://www.eventbrite.com/e/tedxberkeley-2018-you-are-here-tickets-39787788346",
     "videos_2017": "https://www.youtube.com/watch?v=JS1sVHlrW9k&list=PLsRNoUx8w3rOWxJZUN4rKOHHy8z8PGWL5",
     "sponsors_2017": "http://tedxberkeley.org/2017/partners",
-    "website_2017": "http://tedxberkeley.org/2017/"
+    "website_2017": "http://tedxberkeley.org/2017/",
+    "root": "http://tedxberkeley.org"
 }

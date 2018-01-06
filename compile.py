@@ -33,6 +33,8 @@ parser.add_argument('--static', type=str,
 parser.add_argument('--js', type=str,
                     help='Path to directory containing javascript',
                     default='./src/js')
+parser.add_argument('--old', action='store_true',
+                    help='generate old pages')
 args = parser.parse_args()
 
 os.makedirs(args.out, exist_ok=True)
@@ -107,3 +109,27 @@ for speaker in speakers['2018']:
     with open(out, 'w') as f:
         context['person'] = speaker
         f.write(template.render(context))
+
+if args.old:
+
+    year_template = env.get_template('templates/year.html')
+    for year in range(2010, 2017):
+        context = global_context.copy()
+        out = './published/%d/index.html' % year
+        os.makedirs(os.path.dirname(out), exist_ok=True)
+        with open(out, 'w') as f:
+            context['year'] = year
+            context['root'] = '/%d' % year
+            context['speakers'] = speakers[str(year)]
+            f.write(year_template.render(context))
+    
+    for year in range(2010, 2017):
+        for speaker in speakers[str(year)]:
+            context = global_context.copy()
+            speaker_uri = speaker['name'].replace(' ', '-')
+            out = './published/%d/speakers/%s/index.html' % (year, speaker_uri)
+            os.makedirs(os.path.dirname(out), exist_ok=True)
+            with open(out, 'w') as f:
+                context['person'] = speaker
+                context['root'] = '/%d' % year
+                f.write(template.render(context))

@@ -1,0 +1,43 @@
+{% extends "layouts/base.html" %}
+{% block main %}
+<section class="basic-text wrap-container profile">
+    <div class="wrap col-md-8 col-sm-10 col-xs-10">
+        <h2 class="name">TEDxBerkeley {{ year }}</h2>
+        <div class="multicol-2">
+
+        </div>
+    </div>
+    <div class="background">
+        <img src="{{ root }}/static/images/burn_right.svg" class="burn-right">
+    </div>
+</section>
+<section class="people wrap-container">
+    <div class="wrap col-md-10 col-sm-10">
+        {% for speaker in speakers %}
+        <div class="profile col-md-3 col-sm-4 col-xs-6"> <span class="profile-pic-mask">
+                <span class="profile-pic"
+                      style="background:url('/{{ year }}{{ speaker.image_uri }}'); background-size:cover; background-position:center;"></span> </span>
+            <h2 class="profile-name">{{ speaker.name }}</h2>
+            <p class="profile-byline">{{ speaker.byline }}</p>
+            <p class="profile-copy">{{ speaker.description[:80] }}...</i>
+                </b>
+            </p>
+            <p><a href="{{ root }}/speakers/{{ speaker.name.replace(' ', '-') }}" class="button small">View More</a>
+            </p>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="background">
+        <img src="{{ root }}/static/images/burn_left.svg" class="burn-left">
+        <img src="{{ root }}/static/images/burn_left.svg" class="flipped burn-right bottom">
+        <div class="col-md-6 col-sm-6">
+            <span class="col-md-3 col-sm-3"></span>
+            <img src="{{ root }}/static/images/piece3.svg" class="col-md-6 col-sm-6 p3">
+        </div>
+        <div class="col-md-6 col-sm-6">
+            <img src="{{ root }}/static/images/piece2.svg">
+            <img src="{{ root }}/static/images/piece5.svg" class="col-md-8 col-sm-8 p5">
+        </div>
+    </div>
+</section>
+{% endblock %}
