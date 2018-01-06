@@ -632,6 +632,21 @@ footer .spec {
   padding: 0.5em;
   background-color: #eee; }
 
+html body .profile h3 {
+  border-top: 0;
+  padding-top: 0; }
+
+.profile {
+  padding-top: 10em; }
+
+.profile .byline {
+  color: #999;
+  font-size: 2em; }
+
+.profile .name {
+  margin-top: 0;
+  margin-bottom: 0.5em; }
+
 /**
  * Numbers
  */
@@ -705,7 +720,8 @@ footer .spec {
  * Profile
  */
 section.profile .profile-pic-mask {
-  margin-top: 10em;
+  margin-top: 3em;
+  margin-bottom: 1em;
   float: left; }
 
 .sponsors h2 {

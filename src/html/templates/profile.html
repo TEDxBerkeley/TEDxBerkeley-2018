@@ -2,12 +2,15 @@
 {% block main %}
 <section class="basic-text wrap-container profile">
     <div class="wrap col-md-8 col-sm-10 col-xs-10">
+        {% if not person.image_large_uri %}
         <div class="profile-pic-mask">
             <span class="profile-pic"
                   style="background:url('{{ person.image_uri }}'); background-size:cover; background-position:center;">
             </span>
         </div>
-        <h2 id="theme-tedx-ted">{{ person.name }}</h2>
+        {% endif %}
+        <h3 class="byline">{{ person.byline }}</h3>
+        <h2 class="name">{{ person.name }}</h2>
         <div class="multicol-2">
             {% if person.image_large_uri %}
             <img src="{{ person.image_large_uri }}" class="image-large col-md-12">
@@ -16,8 +19,6 @@
             <h3>Twitter</h3>
             <p><a href="http://twitter.com/{{ person.twitter }}" rel="nofollow">@{{ person.twitter }}</a></p>
             {% endif %}
-            <h3>Byline</h3>
-            <p>{{ person.byline }}</p>
             <h3>Description</h3>
             <p>{{ person.description }}</p>
         </div>
