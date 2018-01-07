@@ -206,6 +206,11 @@ h2.no {
 .text-with-number.right .burn-left {
     margin-top: -10em;
 }
+.years-subtitle {
+    font-size: 1.5em;
+    margin-top: -1.5em;
+    margin-bottom: 3em;
+}
 /**
  * Cutout
  */
@@ -578,8 +583,8 @@ footer .spec {
 }
 .profile-pic-mask,
 .profile-detail .profile-pic-mask {
-    width: 10em;
-    height: 10em;
+    width: 12.5em;
+    height: 12.5em;
     border-radius: 50%;
     overflow: hidden;
     display: inline-block;
@@ -587,8 +592,8 @@ footer .spec {
 }
 .profile-pic,
 .profile-detail .profile-pic {
-    width: 10em;
-    height: 10em;
+    width: 12.5em;
+    height: 12.5em;
     display: inline-block
 }
 .people .profile,
