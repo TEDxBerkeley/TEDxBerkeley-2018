@@ -6,7 +6,7 @@
     float: left;
     font-family: 'Seravek';
 }
-p > * {
+p > *, li a {
     float: none;
 }
 header,
@@ -78,8 +78,14 @@ header {
 b.red {
     color: rgb(252, 96, 78);
 }
-b.blue {
+b.blue,.content li a {
     color: rgb(75, 152, 252);
+    font-size:1em;
+}
+.content li {
+    padding:0.25em 0;
+    font-size:1.15em;
+    list-style:square;
 }
 .flipped {
     transform: rotate(180deg);
