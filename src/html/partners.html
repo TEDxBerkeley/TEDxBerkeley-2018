@@ -12,8 +12,10 @@
 
                 <div class="col-md-12 sponsors">
                     <h2 class="blue camel">2018 Sponsors</h2>
+                    {% set i = 0 %}
                     {% for sponsor in sponsors['2018'] %}
-                    <img src="{{ sponsor.image_uri }}" class="col-md-3">
+                    {% set i = i + 1 %}
+                    <img src="{{ sponsor.image_uri }}" class="col-xs-12 col-sm-6 col-md-3">
                     {% endfor %}
                 </div>
             </div>
