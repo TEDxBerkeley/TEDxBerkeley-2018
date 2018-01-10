@@ -153,6 +153,9 @@ b.blue, .content li a {
   z-index: 10;
   width: 30em; }
 
+.opening.wushu .text {
+  text-align: center; }
+
 .opening .content {
   position: relative;
   z-index: 1; }
@@ -166,10 +169,10 @@ b.blue, .content li a {
   margin-top: 0.5em;
   text-align: center; }
 
-.opening.wushu .button {
+.opening.wushu .cutout .text .button {
   z-index: 11;
   position: relative;
-  margin-left: 5em; }
+  float: none; }
 
 .opening.wushu .cutout {
   margin-top: 3em; }
@@ -567,8 +570,8 @@ footer .spec {
 
 .profile-pic-mask,
 .profile-detail .profile-pic-mask {
-  width: 12.5em;
-  height: 12.5em;
+  width: 15em;
+  height: 15em;
   border-radius: 50%;
   overflow: hidden;
   display: inline-block;
@@ -576,20 +579,20 @@ footer .spec {
 
 .profile-pic,
 .profile-detail .profile-pic {
-  width: 12.5em;
-  height: 12.5em;
+  width: 15em;
+  height: 15em;
   display: inline-block; }
 
 .people .profile,
 .profile-detail .profile {
-  min-height: 35em;
+  min-height: 30em;
   padding: 2em; }
 
 .people .profile .profile-name,
 .profile-detail .profile .profile-name {
   color: #333;
   width: 100%;
-  font-size: 1.5em; }
+  font-size: 1.75em; }
 
 .people .profile .profile-byline,
 .profile-detail .profile .profile-byline {
@@ -598,7 +601,7 @@ footer .spec {
 .people .profile .profile-copy,
 .profile-detail .profile .profile-copy {
   color: #666;
-  font-size: .9em;
+  font-size: 1em;
   line-height: 150%; }
 
 .people .profile-more,
@@ -821,6 +824,9 @@ section.profile .profile-pic-mask {
 @media (min-width: 768px) {
   .opening .text p, .opening .text span {
     text-align: right; }
+  .people .profile,
+  .profile-detail .profile {
+    min-height: 38em; }
   .opening .text {
     margin-top: 10em; }
   .cutout.brian .text {
@@ -854,7 +860,12 @@ section.profile .profile-pic-mask {
   .anna + .basic-text {
     margin-top: -6em; }
   .benefits li {
-    font-size: 2.5em; } }
+    font-size: 2.5em; }
+  .opening.wushu .cutout .text {
+    text-align: right; }
+  .opening.wushu .cutout .text .button {
+    float: right;
+    margin-left: 5em; } }
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
