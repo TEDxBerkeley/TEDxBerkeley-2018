@@ -4,13 +4,13 @@ all:
 .PHONY: deploy staging update preview
 
 preview:
-	python compile.py preview && \
+	python3 compile.py preview && \
 	cd published && \
-	python -m http.server 8889
+	python3 -m http.server 8889
 
 # usage: make deploy m="commit message"
 deploy:
-	python compile.py production && \
+	python3 compile.py production && \
 	cd ../tedxberkeley.github.io && \
 	git pull --force && \
 	cp -r ../TEDxBerkeley-2018/published/* . && \
