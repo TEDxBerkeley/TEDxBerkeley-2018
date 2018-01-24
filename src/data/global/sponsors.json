@@ -14,6 +14,12 @@
     },
     {
       "image_uri": "/static/images/sponsorPics/yerbamate.png"
+    },
+    {
+      "image_uri": "/static/images/sponsorPics/peacefulfruits.png"
+    },
+    {
+      "image_uri": "/static/images/sponsorPics/altereco.jpg"
     }
   ]
 }

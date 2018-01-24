@@ -74,14 +74,6 @@
       "twitter": "LavaMae"
     },
     {
-      "name": "Khalid Kadir",
-      "byline": "Professor at UC Berkeley",
-      "twitter": "khalidcal",
-      "description": "Khalid is a Continuing Lecturer at UC Berkeley, teaching courses in the Global Poverty & Practice (GPP) program, Political Economy, and the College of Engineering. He received his PhD in 2010 from Berkeley in Civil and Environmental Engineering, where his research focused on pathogen removal in natural water and wastewater treatment systems. While completing this research, Khalid was awarded a Fulbright Fellowship to work on water and wastewater treatment systems in Morocco. During this time, he began studying the complex role that engineering expertise plays in the politics of international development and poverty alleviation. His current research focuses on the politics of technology, engineering education, and the design of water and sanitation systems for humanitarian contexts. In 2013 Khalid was selected as a Chancellor’s Public Scholar to create and teach an innovative interdisciplinary engineering course that combines community-engaged scholarship with classroom learning to train future engineers to engage with the social and political roots of their technical work. In recognition of his work on this unique course and of his teaching in the GPP program, Khalid was awarded the 2014 Chancellor’s Award for Public Service for Service-Learning Leadership. More recently, in 2017 Khalid received UC Berkeley’s Distinguished Teaching Award, the campus’ most prestigious honor for teaching.",
-      "image_uri": "/static/images/speakerPics/KhalidKadir.jpg",
-      "image_large_uri": "/static/images/speakerPics/KhalidKadir-large.jpg"
-    },
-    {
       "name": "Justin Barad",
       "twitter": "jbhungry",
       "byline": "Medical Entrepreneur",
@@ -132,7 +124,7 @@
     {
       "name": "Dean Ornish",
       "twitter": "DeanOrnishMD",
-      "byline": "M.D. scientist & educator",
+      "byline": "Professor, UCSF/President, PMRI",
       "description": "Dean Ornish, M.D., is the founder and president of the non-profit Preventive Medicine Research Institute and Clinical Professor of Medicine at the University of California, San Francisco and Clinical Professor of Medicine at the University of California, San Diego.<br/><br/>He is the author of 6 books, all national bestsellers.  His TED.com talks have been viewed by over 4.5 million people.  The research that he and his colleagues conducted has been published in the leading medical journals.  Dr. Ornish was appointed by President Clinton to the White House Commission on Complementary and Alternative Medicine Policy and by President Obama to the White House Advisory Group on Prevention, Health Promotion, and Integrative and Public Health.  He is also a member of The Lancet Oncology \"Moonshot Commission.\"  He chaired the Google Health Advisory Council 2007-9 with Marissa Mayer.<br/><br/>The \"Ornish diet\" has been rated \"#1 for Heart Health\" by U.S. News & World Report every year since 2011.<br/><br/>He has received several awards, including the 1994 Outstanding Young Alumnus Award from the University of Texas, Austin; the University of California, Berkeley, “National Public Health Hero” award; the Jan J. Kellermann Memorial Award for distinguished contribution in the field of cardiovascular disease prevention from the International Academy of Cardiology; a Presidential Citation from the American Psychological Association; the inaugural “Lifetime Achievement Award” from the American College of Lifestyle Medicine; the Beckmann Medal from the German Society for Prevention and Rehabilitation of Cardiovascular Diseases; a U.S. Surgeon General Citation; and others.<br/><br/>Dr. Ornish was honored as \"one of the 125 most extraordinary University of Texas alumni in the past 125 years;\" chosen by LIFE magazine as “one of the fifty most influential members of his generation;” recognized by Forbes magazine as “one of the world’s seven most powerful teachers.”   For more information: www.ornish.com.",
       "image_uri": "/static/images/speakerPics/DeanOrnish.jpg",
       "image_large_uri": "/static/images/speakerPics/DeanOrnish-large.jpg"
@@ -151,6 +143,14 @@
       "description": "Haroon Moghul is the Fellow in Jewish-Muslim Relations at the Shalom Hartman Institute. He's the author of three books, including How to be a Muslim: An American Story, which the Washington Post called \"an extraordinary gift,\" and \"an authentic portrayal of a vastly misunderstood community.\" He's hard at work on a new project, a series of novels set in the present, the past, and the future, in that order. Haroon has been published at the Washington Post, TIME, CNN, and Foreign Policy. In 2016, he was honored with the Religion News Writer's Awards for Religion Reporting Excellence. He was a Fellow at Fordham Law School's Center on National Security and with the National Security Studies Program at New America Foundation. Haroon is on the Multicultural Audience Development Initiative at the Metropolitan Museum of Art in New York City. He graduated from Columbia University with an M.A. in Middle East, South Asian and African Studies. He loves science fiction, lost his hair several years back, is way behind on his reading list, wants to move to Montreal, and is learning French.",
       "image_uri": "/static/images/speakerPics/HaroonMoghul.jpeg",
       "image_large_uri": "/static/images/speakerPics/HaroonMoghul.jpeg"
+    },
+    {
+      "name": "Eric Osiakwan",
+      "byline": "Entrepreneur and Investor",
+      "twitter": "eosiakwan",
+      "description": "Eric Osiakwan, Managing Partner of Chanzo Capital is an Entrepreneur and Investor with 15 years of ICT industry leadership across Africa and the world. He has worked in 32 African countries setting up ISPs, ISPAs, IXPs and high-tech startups. He Co-Founded Angel Africa List, Angel Fair Africa and currently serves on the board of Farmerline, SMS GH, Forhey, Teranga Solutions, SeeSayDo, Oasis Websoft, Siqueries, Amp.it, SameLogic, Bisa app, Wanjo Foods, Ghana Cyber City and WABco – some of which are his investments.<br/><br/>He was part of the team that built the TEAMS submarine cable in East Africa and an ICT Consultant for the WorldBank, Soros Foundations, UNDP, USAID, USDoJ, USDoS as well as African governments and private firms. <br/><br/>He authored “The KINGS of Africa’s Digital Economy”, co-authored the “Open Access Model”, adopted globally by the telecommunications industry, “Negotiating the Net” – the politics of Internet Diffusion in Africa and “The Internet in Ghana” with the Mosaic Group. He was invited to contribute ideas to Prime Minister Tony Blair’s Commission for Africa. Eric is a TED, Stanford, MIT and Harvard fellow.",
+      "image_uri": "/static/images/speakerPics/EricOsiakwan.jpg",
+      "image_large_uri": "/static/images/speakerPics/EricOsiakwan-large.jpg"
     }
   ],
   "2017": [
