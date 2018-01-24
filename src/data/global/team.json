@@ -42,7 +42,7 @@
 			"name": "Aaron Chelliah",
 			"byline": "Manager of Outreach",
 			"description": "Aaron Chelliah is a third year at UC Berkeley, studying economics. Born and raised in sunny Manhattan Beach California, Aaron followed his passion for exploring new ideas by working with TEDxManhattanBeach and debating international topics in Model United Nations. He also enjoyed being opinion editor of the school newspaper for the same reason. Aaron enjoys hiking, discovering new music, and hanging out with his friends. You can usually find him sampling the various cuisines around Berkeley, but you could also try emailing him at achelliah@berkeley.edu.",
-			"image_uri": "/static/images/teamPics/aaron.jpg"
+			"image_uri": "/static/images/teamPics/aaron.JPG"
 		},
 		"ishan": {
 			"name": "Ishan Sharma",
@@ -53,7 +53,7 @@
 		"mehdi": {
 			"name": "Mehdi Kazi",
 			"byline": "Manager of Technology",
-			"description": "Mehdi Kazi is a first year at UC Berkeley, studying Computer Science. Aside from TEDxBerkeley, he plans to explore his passions for innovation and technology by participating in different hackathons in the area and working on small projects with friends. Mehdi loves food (especially watermelon!), exploring new places, and meeting new people. You will most likely find him at coffee shops across campus with one hand on his laptop and the other on a cup of iced coffee, but you can always reach him at mehdikazi@berkeley.edu.",
+			"description": "Mehdi Kazi is a third year at UC Berkeley, studying Computer Science. Aside from TEDxBerkeley, he plans to explore his passions for innovation and technology by participating in different hackathons in the area and working on small projects with friends. Mehdi loves food (especially watermelon!), exploring new places, and meeting new people. You will most likely find him at coffee shops across campus with one hand on his laptop and the other on a cup of iced coffee, but you can always reach him at mehdi@tedxberkeley.com.",
 			"image_uri": "/static/images/teamPics/mehdi.jpg"
 		},
 		"saher": {
@@ -153,7 +153,7 @@
 			"name": "Aaron Chelliah",
 			"byline": "Manager of Outreach",
 			"description": "Aaron Chelliah is a first year at UC Berkeley, studying economics. Born and raised in sunny Manhattan Beach California, Aaron followed his passion for exploring new ideas by working with TEDxManhattanBeach and debating international topics in Model United Nations. He also enjoyed being opinion editor of the school newspaper for the same reason. Aaron enjoys hiking, discovering new music, and hanging out with his friends. You can usually find him sampling the various cuisines around Berkeley, but you could also try emailing him at achelliah@berkeley.edu.",
-			"image_uri": "/static/images/teamPics/aaron.jpg"
+			"image_uri": "/static/images/teamPics/aaron.JPG"
 		},
 		"ishan": {
 			"name": "Ishan Sharma",
@@ -176,7 +176,7 @@
 		"mehdi": {
 			"name": "Mehdi Kazi",
 			"byline": "Manager of Technology",
-			"description": "Mehdi Kazi is a first year at UC Berkeley, studying Computer Science. Aside from TEDxBerkeley, he plans to explore his passions for innovation and technology by participating in different hackathons in the area and working on small projects with friends. Mehdi loves food (especially watermelon!), exploring new places, and meeting new people. You will most likely find him at coffee shops across campus with one hand on his laptop and the other on a cup of iced coffee, but you can always reach him at mehdikazi@berkeley.edu.",
+			"description": "Mehdi Kazi is a third year at UC Berkeley, studying Computer Science. Aside from TEDxBerkeley, he plans to explore his passions for innovation and technology by participating in different hackathons in the area and working on small projects with friends. Mehdi loves food (especially watermelon!), exploring new places, and meeting new people. You will most likely find him at coffee shops across campus with one hand on his laptop and the other on a cup of iced coffee, but you can always reach him at mehdi@tedxberkeley.com.",
 			"image_uri": "/static/images/teamPics/mehdi.jpg"
 		},
 		"saher": {
