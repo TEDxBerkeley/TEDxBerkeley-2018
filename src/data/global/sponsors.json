@@ -20,6 +20,15 @@
     },
     {
       "image_uri": "/static/images/sponsorPics/altereco.jpg"
+    },
+    {
+      "image_uri": "/static/images/sponsorPics/bernardus.jpg"
+    },
+    {
+      "image_uri": "/static/images/sponsorPics/sambaenergy.png"
+    },
+    {
+      "image_uri": "/static/images/sponsorPics/mindtravel.png"
     }
   ]
 }
