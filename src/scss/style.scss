@@ -28,6 +28,9 @@ section .background {
 html .right {
     float: right;
 }
+html .left {
+    float: left;
+}
 .logo img {
     width: 3em;
     height: 3em;
@@ -391,6 +394,13 @@ h2.no {
     width:100%;
     text-align:right;
 }
+.promotion li {
+    color:#999;
+    font-size:1.5em;
+    float:left;
+    width:100%;
+}
+
 .p7 {
     margin-top: -10em;
     margin-left: 5em;
