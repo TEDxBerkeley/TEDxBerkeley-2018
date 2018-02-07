@@ -596,7 +596,7 @@ footer .spec {
 
 .people .profile .profile-byline,
 .profile-detail .profile .profile-byline {
-  color: #999; }
+  color: #333; }
 
 .people .profile .profile-copy,
 .profile-detail .profile .profile-copy {
@@ -657,7 +657,7 @@ html body .profile h3 {
   padding-top: 10em; }
 
 .profile .byline {
-  color: #999;
+  color: #333;
   font-size: 2em; }
 
 .profile .name {
