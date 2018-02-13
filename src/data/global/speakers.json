@@ -84,12 +84,28 @@
       "topic": "Migrant Rights at the Women's Refugee Commission"
     },
     {
-      "name": "Chandni Kazi",
-      "byline": "Mental Health Advocate",
-      "description": "Chandni Kazi is passionate about public health, social justice and the role of STEM in achieving both. She earned her bachelor’s degree from UC Berkeley in Molecular and Cell Biology, as well as her Masters of Public Health in Biostatistics from Loma Linda University. She is a published author on the relationship between education and maternal weight gain in U.S. Mothers. Alongside her studies, she volunteered at a nonprofit that served the youth experiencing homelessness. For two years, she digitized their data collection process and spent time with the youth providing public health services. This experience led her to devout her master’s thesis to researching better ways to help them with respect to their mental health and utilization of more public health services. Chandni now brings her unique interdisciplinary background into the workplace. She serves as a Product Manager at Great Place To Work Inc, a global organization that creates great workplaces for all. She is responsible for building innovations that help reduce systemic injustices that take place within organizations. Additionally, she chairs her company’s philanthropic group and volunteers her expertise to local nonprofits in need of data support. Chandni lives in San Francisco, CA and enjoys traveling, all things tacos, salsa dancing and surfing.",
-      "image_uri": "/static/images/speakerPics/ChandniKazi.jpg",
-      "image_large_uri": "/static/images/speakerPics/ChandniKazi-large.jpg",
-      "twitter": "chai923"
+      "name": "Dónall Ó Héalaí",
+      "twitter": "celticconscious",
+      "byline": "Actor and Celtic Conciousness Activist",
+      "description": "Born and raised in Connemara in the West of Ireland, Dónall is the founding director of Celtic Consciousness. A lover and sharer of stories and songs, he is a native Gaelic speaker and a graduate of the National University of Ireland, Maynooth, where he was awarded Dr. H.H Stewart Literary prize. <br/><br/>He has worked extensively with the National Irish-language television channel, TG4, as well as with the National Irish-language theatre, An Taibhdhearc. He has also taught at The Irish Arts Center in New York City. In 2015 he was presented with Irish Screen America's rising Talent Award for his in performance in film. His acting work on film and television has featured in the Toronto Film Festival and at the Prix Europa television awards.<br/><br/>He is delighted to have this opportunity to share his own relationship with the Gaelic language and how this has inspired the founding of the initiative, Celtic Consciousness.",
+      "image_uri": "/static/images/speakerPics/DonallHealai.jpg",
+      "image_large_uri": "/static/images/speakerPics/DonallHealai-large.jpg"
+    },
+    {
+      "name": "Christopher Emdin",
+      "byline": "Teacher, Speaker, Change Maker",
+      "twitter": "chrisemdin",
+      "description": "Christopher Emdin is Professor and Program Director of Science Education in the Department of Mathematics, Science and Technology at Teachers College, Columbia University, where he also serves as Associate Director of the Institute for Urban and Minority Education. He holds a Ph.D. in Urban Education with a concentration in Mathematics, Science and Technology, a M.S. in Natural Sciences, and Bachelors degrees in Physical Anthropology, Biology, and Chemistry. Dr. Emdin is the creator of the #HipHopEd social media movement and the Science Genius program. He is author of the New York Times Bestseller<br></br>For White Folks Who Teach In The Hood.. and the Rest of ya’ll too, Urban Science Education for the Hip-hop Generation, and Ratchetdemic",
+      "image_uri": "/static/images/speakerPics/Christopher.jpg",
+      "image_large_uri": "/static/images/speakerPics/Christopher-large.jpg"
+    },
+    {
+      "name": "Dan Hammer",
+      "twitter": "econohammer",
+      "byline": "Envrionmental Data Sceintist",
+      "description": "Dan Hammer received 2017 Pritzker Award for his work to make environmental information more accessible to journalists.  He earned is PhD in Environmental Economics from UC Berkeley, where he was a Fellow at the Berkeley Institute for Data Science.  Dan works at an environmental and tech nonprofit that he founded alongside two other Berkeley alumni, including the former CEO of The Nature Conservancy and The Moore Foundation.  He previously served as a Senior Policy Advisor on data infrastructure in the Obama White House, as well as a Presidential Innovation Fellow at NASA.  Dan was the Chief Data Scientist at the World Resources Institute, where he co-founded Global Forest Watch -- an online platform to monitor deforestation from satellite imagery.  He cofounded a venture capital-backed satellite image analytics company, which is successful long after he left -- likely because he left.  He is adjunct faculty in the public policy school at Georgetown University, and the environmental sciences department at the University of San Francisco. He graduated with high honors in mathematics and economics from Swarthmore College, where he was a Lang Opportunity Scholar and volunteer firefighter.  Dan spent almost two years in the South Pacific as a Watson Fellow, building and racing outrigger canoes.",
+      "image_uri": "/static/images/speakerPics/DanHammer.jpg",
+      "image_large_uri": "/static/images/speakerPics/DanHammer-large.png"
     },
     {
       "name": "Jennifer French",
@@ -116,14 +132,6 @@
       "image_large_uri": "/static/images/speakerPics/JustinBarad-large.jpg"
     },
     {
-      "name": "Dan Hammer",
-      "twitter": "econohammer",
-      "byline": "Envrionmental Data Sceintist",
-      "description": "Dan Hammer received 2017 Pritzker Award for his work to make environmental information more accessible to journalists.  He earned is PhD in Environmental Economics from UC Berkeley, where he was a Fellow at the Berkeley Institute for Data Science.  Dan works at an environmental and tech nonprofit that he founded alongside two other Berkeley alumni, including the former CEO of The Nature Conservancy and The Moore Foundation.  He previously served as a Senior Policy Advisor on data infrastructure in the Obama White House, as well as a Presidential Innovation Fellow at NASA.  Dan was the Chief Data Scientist at the World Resources Institute, where he co-founded Global Forest Watch -- an online platform to monitor deforestation from satellite imagery.  He cofounded a venture capital-backed satellite image analytics company, which is successful long after he left -- likely because he left.  He is adjunct faculty in the public policy school at Georgetown University, and the environmental sciences department at the University of San Francisco. He graduated with high honors in mathematics and economics from Swarthmore College, where he was a Lang Opportunity Scholar and volunteer firefighter.  Dan spent almost two years in the South Pacific as a Watson Fellow, building and racing outrigger canoes.",
-      "image_uri": "/static/images/speakerPics/DanHammer.jpg",
-      "image_large_uri": "/static/images/speakerPics/DanHammer-large.png"
-    },
-    {
       "name": "Claudio Guglieri",
       "twitter": "claudioguglieri",
       "byline": "Emmy Award Winning Designer",
@@ -132,20 +140,20 @@
       "image_large_uri": "/static/images/speakerPics/ClaudioGuglieri-large.jpg"
     },
     {
-      "name": "Dónall Ó Héalaí",
-      "twitter": "celticconscious",
-      "byline": "Actor and Celtic Conciousness Activist",
-      "description": "Born and raised in Connemara in the West of Ireland, Dónall is the founding director of Celtic Consciousness. A lover and sharer of stories and songs, he is a native Gaelic speaker and a graduate of the National University of Ireland, Maynooth, where he was awarded Dr. H.H Stewart Literary prize. <br/><br/>He has worked extensively with the National Irish-language television channel, TG4, as well as with the National Irish-language theatre, An Taibhdhearc. He has also taught at The Irish Arts Center in New York City. In 2015 he was presented with Irish Screen America's rising Talent Award for his in performance in film. His acting work on film and television has featured in the Toronto Film Festival and at the Prix Europa television awards.<br/><br/>He is delighted to have this opportunity to share his own relationship with the Gaelic language and how this has inspired the founding of the initiative, Celtic Consciousness.",
-      "image_uri": "/static/images/speakerPics/DonallHealai.jpg",
-      "image_large_uri": "/static/images/speakerPics/DonallHealai-large.jpg"
-    },
-    {
       "name": "Daria Musk",
       "twitter": "dariamusk",
       "byline": "Musician | Artistpreneur ",
       "description": "This is the story of a girl who’s voice launched a thousand lines of code. After a nearly overnight success, singing for a global audience and building a fanbase of millions – through her first-of-a-kind live interactive online concerts – Daria Musk’s influence and ideas have spilled over from songs into talks, tours, press and accolades (from Billboard and Rolling Stone, to The GRAMMY’s new FutureNow Artist award) and behind-the-scenes consulting for the world’s biggest tech and entertainment companies.<br/><br/>This year, the millennial-musican-filmmaker-producer founded Unlabeled Studio, a new kind of multimedia production house and recording studio where she and her award-winning team of multi-hyphenate creators make music, videos, film scores, screenplays, interactive livestreams, novels, branded content and more. First up to launch in 2018 is Daria’s docs-series “Unmastered” an intimate and interactive look into the making her debut album. Daria’s work is made inspire and empower a generation of “artistpreneurs” like her, to make what they love and what they do.",
       "image_uri": "/static/images/speakerPics/DariaMusk.jpg",
       "image_large_uri": "/static/images/speakerPics/DariaMusk-large.jpg"
+    },
+    {
+      "name": "Chandni Kazi",
+      "byline": "Mental Health Advocate",
+      "description": "Chandni Kazi is passionate about public health, social justice and the role of STEM in achieving both. She earned her bachelor’s degree from UC Berkeley in Molecular and Cell Biology, as well as her Masters of Public Health in Biostatistics from Loma Linda University. She is a published author on the relationship between education and maternal weight gain in U.S. Mothers. Alongside her studies, she volunteered at a nonprofit that served the youth experiencing homelessness. For two years, she digitized their data collection process and spent time with the youth providing public health services. This experience led her to devout her master’s thesis to researching better ways to help them with respect to their mental health and utilization of more public health services. Chandni now brings her unique interdisciplinary background into the workplace. She serves as a Product Manager at Great Place To Work Inc, a global organization that creates great workplaces for all. She is responsible for building innovations that help reduce systemic injustices that take place within organizations. Additionally, she chairs her company’s philanthropic group and volunteers her expertise to local nonprofits in need of data support. Chandni lives in San Francisco, CA and enjoys traveling, all things tacos, salsa dancing and surfing.",
+      "image_uri": "/static/images/speakerPics/ChandniKazi.jpg",
+      "image_large_uri": "/static/images/speakerPics/ChandniKazi-large.jpg",
+      "twitter": "chai923"
     },
     {
       "name": "Hazel Miller",
@@ -161,35 +169,6 @@
       "description": "Eric Osiakwan, Managing Partner of Chanzo Capital is an Entrepreneur and Investor with 15 years of ICT industry leadership across Africa and the world. He has worked in 32 African countries setting up ISPs, ISPAs, IXPs and high-tech startups. He Co-Founded Angel Africa List, Angel Fair Africa and currently serves on the board of Farmerline, SMS GH, Forhey, Teranga Solutions, SeeSayDo, Oasis Websoft, Siqueries, Amp.it, SameLogic, Bisa app, Wanjo Foods, Ghana Cyber City and WABco – some of which are his investments.<br/><br/>He was part of the team that built the TEAMS submarine cable in East Africa and an ICT Consultant for the WorldBank, Soros Foundations, UNDP, USAID, USDoJ, USDoS as well as African governments and private firms. <br/><br/>He authored “The KINGS of Africa’s Digital Economy”, co-authored the “Open Access Model”, adopted globally by the telecommunications industry, “Negotiating the Net” – the politics of Internet Diffusion in Africa and “The Internet in Ghana” with the Mosaic Group. He was invited to contribute ideas to Prime Minister Tony Blair’s Commission for Africa. Eric is a TED, Stanford, MIT and Harvard fellow.",
       "image_uri": "/static/images/speakerPics/EricOsiakwan.jpg",
       "image_large_uri": "/static/images/speakerPics/EricOsiakwan-large.jpg"
-    },
-    {
-      "name": "Cal Ballroom",
-      "byline": "International Dance Team",
-      "description": "Cal Ballroom UC Berkeley’s one and only competitive International Ballroom Dance Team and the largest team on the West Coast. We offer Cal Students high quality dance instruction through our professional coaches in International Latin, International Standard, and American Smooth styles as well as attend competitions regionally and nationally. Our team members have both placed and won national titles in competiti ons across the whole country.",
-      "image_uri": "/static/images/speakerPics/CalBallroom.jpg",
-      "image_large_uri": "/static/images/speakerPics/CalBallroom-large.jpg"
-    },
-    {
-      "name": "DeCadence",
-      "byline": "Performer",
-      "description": "DeCadence? DeCadance? DeCádince? What or who is that? DeCadence (“DEE-KAY-DENCE”) is a student-run, co-ed a cappella group from UC Berkeley that loves to belt top 40 hits, indie rock, jazz, and almost everything in between.  We're all about singing, performing, and having fun!  You can find us jamming out at our weekly campus performances under Sather Gate at noon on Wednesdays. If you like what you see, check us out on facebook and instagram, and please visit our website (decadence.berkeley.edu)",
-      "image_uri": "/static/images/speakerPics/DeCadance.jpg",
-      "image_large_uri": "/static/images/speakerPics/DeCadance-large.jpg"
-    },
-    {
-      "name": "Cal Taiko",
-      "byline": "Japanese Drmming",
-      "description": "In the Spring of 2005, a small-but-committed group of students pooled together their resources and formed UC Berkeley's first taiko group. Since then, Cal Raijin Taiko has gone on to become Berkeley's premier Japanese drumming performance ensemble. With a repertoire consisting entirely of original compositions, Cal Raijin Taiko performs to spread the knowledge, love, and passion of taiko to both the campus and the surrounding communities. Over the years since our founding, the members of Cal Raijin Taiko have composed more than a dozen unique and vibrant songs, and performed for scores of audiences large and small. Our alumni have spread throughout the country, many of them going on to found entirely new taiko groups. Every fall we accept new members to make up the next Generation of our Cal Raijin Taiko family.",
-      "image_uri": "/static/images/speakerPics/Taiko.jpg",
-      "image_large_uri": "/static/images/speakerPics/Taiko-large.jpg"
-    },
-    {
-      "name": "Christopher Emdin",
-      "byline": "Teacher, Speaker, Change Maker",
-      "twitter": "chrisemdin",
-      "description": "Christopher Emdin is Professor and Program Director of Science Education in the Department of Mathematics, Science and Technology at Teachers College, Columbia University, where he also serves as Associate Director of the Institute for Urban and Minority Education. He holds a Ph.D. in Urban Education with a concentration in Mathematics, Science and Technology, a M.S. in Natural Sciences, and Bachelors degrees in Physical Anthropology, Biology, and Chemistry. Dr. Emdin is the creator of the #HipHopEd social media movement and the Science Genius program. He is author of the New York Times Bestseller<br></br>For White Folks Who Teach In The Hood.. and the Rest of ya’ll too, Urban Science Education for the Hip-hop Generation, and Ratchetdemic",
-      "image_uri": "/static/images/speakerPics/Christopher.jpg",
-      "image_large_uri": "/static/images/speakerPics/Christopher-large.jpg"
     },
     {
       "name": "Tyrone B Hayes",
@@ -211,7 +190,28 @@
     "description": "Composer and pianist Murray Hidary is the creator of Mind Travel. His provocative, improvisational, real-time compositions with the piano and art projections, inspired by theoretical physics and wisdom traditions, take the audience on a transporting and expansive journey. It is an exploration in translating music into our daily thoughts, words and actions. To carry forward the lessons of music into our lives. To live with harmony, clarity and rhythm.<br></br>Murray has brought Mind Travel to famed venues including Lincoln Center, The Theater at the Ace Hotel, The Metropolitan Museum of Art, The Grace Cathedral, The National Arts Club and festivals including Wanderlust, Carlsbad and Burning Man. He has also pioneered a live ‘silent’ piano headphone Mind Travel creating an immersive music experience. Mind Travel has been brought to audiences in theaters, beaches and parks including Los Angeles, San Francisco, Chicago, Denver, New Orleans, London, Montauk, New Jersey, Miami, Aspen, Oxford, Malibu, Istanbul, Tel Aviv, Germany, Italy and Croatia.<br></br>Murray studied Music and Composition at New York University. He recently scored the music for the documentary REM about iconic architect Rem Koolhaas, directed by Tomas Koolhaas, which was premiered at the Venice Film Festival.",
     "image_uri": "/static/images/speakerPics/MurrayHidary.JPG",
     "image_large_uri": "/static/images/speakerPics/MurrayHidary-large.JPG"
-    }
+  },
+  {
+    "name": "Cal Ballroom",
+    "byline": "International Dance Team",
+    "description": "Cal Ballroom UC Berkeley’s one and only competitive International Ballroom Dance Team and the largest team on the West Coast. We offer Cal Students high quality dance instruction through our professional coaches in International Latin, International Standard, and American Smooth styles as well as attend competitions regionally and nationally. Our team members have both placed and won national titles in competiti ons across the whole country.",
+    "image_uri": "/static/images/speakerPics/CalBallroom.jpg",
+    "image_large_uri": "/static/images/speakerPics/CalBallroom-large.jpg"
+  },
+  {
+    "name": "DeCadence",
+    "byline": "Performer",
+    "description": "DeCadence? DeCadance? DeCádince? What or who is that? DeCadence (“DEE-KAY-DENCE”) is a student-run, co-ed a cappella group from UC Berkeley that loves to belt top 40 hits, indie rock, jazz, and almost everything in between.  We're all about singing, performing, and having fun!  You can find us jamming out at our weekly campus performances under Sather Gate at noon on Wednesdays. If you like what you see, check us out on facebook and instagram, and please visit our website (decadence.berkeley.edu)",
+    "image_uri": "/static/images/speakerPics/DeCadance.jpg",
+    "image_large_uri": "/static/images/speakerPics/DeCadance-large.jpg"
+  },
+  {
+    "name": "Cal Taiko",
+    "byline": "Japanese Drmming",
+    "description": "In the Spring of 2005, a small-but-committed group of students pooled together their resources and formed UC Berkeley's first taiko group. Since then, Cal Raijin Taiko has gone on to become Berkeley's premier Japanese drumming performance ensemble. With a repertoire consisting entirely of original compositions, Cal Raijin Taiko performs to spread the knowledge, love, and passion of taiko to both the campus and the surrounding communities. Over the years since our founding, the members of Cal Raijin Taiko have composed more than a dozen unique and vibrant songs, and performed for scores of audiences large and small. Our alumni have spread throughout the country, many of them going on to found entirely new taiko groups. Every fall we accept new members to make up the next Generation of our Cal Raijin Taiko family.",
+    "image_uri": "/static/images/speakerPics/Taiko.jpg",
+    "image_large_uri": "/static/images/speakerPics/Taiko-large.jpg"
+  }
   ],
   "2017": [
     {
